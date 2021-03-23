@@ -1,0 +1,646 @@
+Altium Designer System: Library Component Rule Check
+PCB File : custom-case
+Date     : 08.03.2021
+Time     : 20:55:28
+
+
+Name                Warnings
+------------------------------------------------------------------
+BUT: 6x6                 Duplicate Pad Name On Pads Pad Free-2(-3.25mm,-2.25mm) on Multi-Layer And Pad Free-2(3.25mm,-2.25mm) on Multi-Layer
+BUT: 6x6                 Duplicate Pad Name On Pads Pad Free-1(-3.25mm,2.25mm) on Multi-Layer And Pad Free-1(3.25mm,2.25mm) on Multi-Layer
+
+CON: SMA                 Duplicate Pad Name On Pads Pad Free-2(-2.54mm,-2.54mm) on Multi-Layer And Pad Free-2(-2.54mm,2.54mm) on Multi-Layer
+CON: SMA                 Duplicate Pad Name On Pads Pad Free-2(2.54mm,-2.54mm) on Multi-Layer And Pad Free-2(-2.54mm,2.54mm) on Multi-Layer
+CON: SMA                 Duplicate Pad Name On Pads Pad Free-2(2.54mm,2.54mm) on Multi-Layer And Pad Free-2(-2.54mm,2.54mm) on Multi-Layer
+
+CON: 7781                Duplicate Pad Name On Pads Pad Free-1(0mm,7.5mm) on Multi-Layer And Pad Free-1(5mm,7.5mm) on Multi-Layer
+CON: 7781                Duplicate Pad Name On Pads Pad Free-1(5mm,0mm) on Multi-Layer And Pad Free-1(5mm,7.5mm) on Multi-Layer
+CON: 7781                Duplicate Pad Name On Pads Pad Free-1(0mm,0mm) on Multi-Layer And Pad Free-1(5mm,7.5mm) on Multi-Layer
+
+CON: 8191                Duplicate Pad Name On Pads Pad Free-1(2.5mm,3.5mm) on Multi-Layer And Pad Free-1(-2.5mm,3.5mm) on Multi-Layer
+CON: 8191                Duplicate Pad Name On Pads Pad Free-1(2.5mm,-3.5mm) on Multi-Layer And Pad Free-1(-2.5mm,3.5mm) on Multi-Layer
+CON: 8191                Duplicate Pad Name On Pads Pad Free-1(-2.5mm,-3.5mm) on Multi-Layer And Pad Free-1(-2.5mm,3.5mm) on Multi-Layer
+
+CON: u.Fl                Duplicate Pad Name On Pads Pad Free-2(1.475mm,0mm) on Top Layer And Pad Free-2(-1.475mm,0mm) on Top Layer
+
+OSC: 5032                Duplicate Pad Name On Pads Pad Free-(-2.6mm,-2.2mm) on Top Overlay And Pad Free-(-2mm,-1.1mm) on Top Assy
+
+CON: CWF-2               Duplicate Pad Name On Pads Pad Free-(-4.375mm,-2.15mm) on Top Overlay And Pad Free-(-3.2mm,-1.7mm) on Top Assy
+
+CON: PBS-5               Duplicate Primitives: Track (-0.5mm,0mm)(0.5mm,0mm) on Size Area And Track (-0.5mm,0mm)(0.5mm,0mm) on Size Area
+CON: PBS-5               Duplicate Primitives: Track (0mm,-0.5mm)(0mm,0.5mm) on Size Area And Track (0mm,-0.5mm)(0mm,0.5mm) on Size Area
+
+CON: PLD-4               Duplicate Primitives: Track (0.635mm,2.54mm)(1.905mm,2.54mm) on Top Overlay And Track (0.635mm,2.54mm)(1.905mm,2.54mm) on Top Overlay
+CON: PLD-4               Duplicate Primitives: Track (-1.905mm,2.54mm)(-0.635mm,2.54mm) on Top Overlay And Track (-1.905mm,2.54mm)(-0.635mm,2.54mm) on Top Overlay
+CON: PLD-4               Duplicate Primitives: Track (-1.905mm,2.54mm)(-0.635mm,2.54mm) on Top Overlay And Track (-1.905mm,2.54mm)(-0.635mm,2.54mm) on Top Overlay
+
+CON: PLD-6               Duplicate Primitives: Track (-3.175mm,2.54mm)(-1.905mm,2.54mm) on Top Overlay And Track (-3.175mm,2.54mm)(-1.905mm,2.54mm) on Top Overlay
+CON: PLD-6               Duplicate Primitives: Track (-3.175mm,2.54mm)(-1.905mm,2.54mm) on Top Overlay And Track (-3.175mm,2.54mm)(-1.905mm,2.54mm) on Top Overlay
+CON: PLD-6               Duplicate Primitives: Track (-0.635mm,2.54mm)(0.635mm,2.54mm) on Top Overlay And Track (-0.635mm,2.54mm)(0.635mm,2.54mm) on Top Overlay
+CON: PLD-6               Duplicate Primitives: Track (1.905mm,2.54mm)(3.175mm,2.54mm) on Top Overlay And Track (1.905mm,2.54mm)(3.175mm,2.54mm) on Top Overlay
+
+CON: PLD-8               Duplicate Primitives: Track (3.175mm,2.54mm)(4.445mm,2.54mm) on Top Overlay And Track (3.175mm,2.54mm)(4.445mm,2.54mm) on Top Overlay
+CON: PLD-8               Duplicate Primitives: Track (0.635mm,2.54mm)(1.905mm,2.54mm) on Top Overlay And Track (0.635mm,2.54mm)(1.905mm,2.54mm) on Top Overlay
+CON: PLD-8               Duplicate Primitives: Track (-1.905mm,2.54mm)(-0.635mm,2.54mm) on Top Overlay And Track (-1.905mm,2.54mm)(-0.635mm,2.54mm) on Top Overlay
+CON: PLD-8               Duplicate Primitives: Track (-4.445mm,2.54mm)(-3.175mm,2.54mm) on Top Overlay And Track (-4.445mm,2.54mm)(-3.175mm,2.54mm) on Top Overlay
+
+MOD: CIPOS               Duplicate Pad Name On Pads Pad Free-MH(-0.39mm,-10.525mm) on Multi-Layer And Pad Free-MH(33.5mm,-10.525mm) on Multi-Layer
+
+OSC: 5032G               Duplicate Pad Name On Pads Pad Free-(-2.5mm,-2.2mm) on Top Overlay And Pad Free-(-2mm,-1.1mm) on Top Assy
+
+REL: T9GS1               Duplicate Pad Name On Pads Pad Free-3(0mm,7.62mm) on Multi-Layer And Pad Free-3(0mm,0mm) on Multi-Layer
+
+BAT: CR1220              Duplicate Pad Name On Pads Pad Free-MH(3.9mm,0mm) on Multi-Layer And Pad Free-MH(-3.6mm,0mm) on Multi-Layer
+
+CON: CWF-2R              Duplicate Pad Name On Pads Pad Free-(-3.3mm,2.2mm) on Top Assy And Pad Free-(-2.375mm,1.85mm) on Top Overlay
+
+CON: CWF-4R              Duplicate Pad Name On Pads Pad Free-(-5mm,-1mm) on Top Overlay And Pad Free-(-5.8mm,-1.9mm) on Top Assy
+
+CON: CWF-5R              Duplicate Pad Name On Pads Pad Free-(-6.95mm,-2.1mm) on Top Assy And Pad Free-(-6.25mm,-1mm) on Top Overlay
+
+CON: CWF-6R              Duplicate Pad Name On Pads Pad Free-(-7.5mm,-1mm) on Top Overlay And Pad Free-(-8.2mm,-2.1mm) on Top Assy
+
+CON: CWF-8R              Duplicate Pad Name On Pads Pad Free-(-10.7mm,-2.1mm) on Top Assy And Pad Free-(-10mm,-1mm) on Top Overlay
+
+CON: PBD-10              Duplicate Pad Name On Pads Pad Free-(-0.7mm,-0.8mm) on Top Assy And Pad Free-(-1.8mm,-1.1mm) on Top Overlay
+
+CON: PBD-20              Duplicate Pad Name On Pads Pad Free-(-0.6mm,-0.7mm) on Top Assy And Pad Free-(-1.775mm,-1.05mm) on Top Overlay
+
+CON: PBD-30              Duplicate Pad Name On Pads Pad Free-(-2.175mm,-1.175mm) on Top Overlay And Pad Free-(-1.1mm,-0.8mm) on Top Assy
+
+CON: PBD-6R              Duplicate Pad Name On Pads Pad Free-(-3.8mm,-1.97mm) on Top Overlay And Pad Free-(-3.8mm,-1.97mm) on Top Assy
+
+CON: PLD-10              Duplicate Primitives: Track (-5.715mm,2.54mm)(-4.445mm,2.54mm) on Top Overlay And Track (-5.715mm,2.54mm)(-4.445mm,2.54mm) on Top Overlay
+CON: PLD-10              Duplicate Primitives: Track (-3.175mm,2.54mm)(-1.905mm,2.54mm) on Top Overlay And Track (-3.175mm,2.54mm)(-1.905mm,2.54mm) on Top Overlay
+CON: PLD-10              Duplicate Primitives: Track (-0.635mm,2.54mm)(0.635mm,2.54mm) on Top Overlay And Track (-0.635mm,2.54mm)(0.635mm,2.54mm) on Top Overlay
+CON: PLD-10              Duplicate Primitives: Track (1.905mm,2.54mm)(3.175mm,2.54mm) on Top Overlay And Track (1.905mm,2.54mm)(3.175mm,2.54mm) on Top Overlay
+CON: PLD-10              Duplicate Primitives: Track (4.445mm,2.54mm)(5.715mm,2.54mm) on Top Overlay And Track (4.445mm,2.54mm)(5.715mm,2.54mm) on Top Overlay
+
+CON: PLD-12              Duplicate Primitives: Track (-4.445mm,2.54mm)(-3.175mm,2.54mm) on Top Overlay And Track (-4.445mm,2.54mm)(-3.175mm,2.54mm) on Top Overlay
+CON: PLD-12              Duplicate Primitives: Track (-1.905mm,2.54mm)(-0.635mm,2.54mm) on Top Overlay And Track (-1.905mm,2.54mm)(-0.635mm,2.54mm) on Top Overlay
+CON: PLD-12              Duplicate Primitives: Track (0.635mm,2.54mm)(1.905mm,2.54mm) on Top Overlay And Track (0.635mm,2.54mm)(1.905mm,2.54mm) on Top Overlay
+CON: PLD-12              Duplicate Primitives: Track (3.175mm,2.54mm)(4.445mm,2.54mm) on Top Overlay And Track (3.175mm,2.54mm)(4.445mm,2.54mm) on Top Overlay
+CON: PLD-12              Duplicate Primitives: Track (5.715mm,2.54mm)(6.985mm,2.54mm) on Top Overlay And Track (5.715mm,2.54mm)(6.985mm,2.54mm) on Top Overlay
+CON: PLD-12              Duplicate Primitives: Track (-6.985mm,2.54mm)(-5.715mm,2.54mm) on Top Overlay And Track (-6.985mm,2.54mm)(-5.715mm,2.54mm) on Top Overlay
+CON: PLD-12              Duplicate Primitives: Track (-5.715mm,0mm)(-5.08mm,0.635mm) on Top Overlay And Track (-5.715mm,0mm)(-5.08mm,0.635mm) on Top Overlay
+CON: PLD-12              Duplicate Primitives: Track (-7.62mm,0.635mm)(-6.985mm,0mm) on Top Overlay And Track (-7.62mm,0.635mm)(-6.985mm,0mm) on Top Overlay
+CON: PLD-12              Duplicate Primitives: Track (-5.08mm,0.635mm)(-4.445mm,0mm) on Top Overlay And Track (-5.08mm,0.635mm)(-4.445mm,0mm) on Top Overlay
+
+CON: PLD-14              Duplicate Primitives: Track (-8.255mm,2.54mm)(-6.985mm,2.54mm) on Top Overlay And Track (-8.255mm,2.54mm)(-6.985mm,2.54mm) on Top Overlay
+CON: PLD-14              Duplicate Primitives: Track (-5.715mm,2.54mm)(-4.445mm,2.54mm) on Top Overlay And Track (-5.715mm,2.54mm)(-4.445mm,2.54mm) on Top Overlay
+CON: PLD-14              Duplicate Primitives: Track (-3.175mm,2.54mm)(-1.905mm,2.54mm) on Top Overlay And Track (-3.175mm,2.54mm)(-1.905mm,2.54mm) on Top Overlay
+CON: PLD-14              Duplicate Primitives: Track (-0.635mm,2.54mm)(0.635mm,2.54mm) on Top Overlay And Track (-0.635mm,2.54mm)(0.635mm,2.54mm) on Top Overlay
+CON: PLD-14              Duplicate Primitives: Track (1.905mm,2.54mm)(3.175mm,2.54mm) on Top Overlay And Track (1.905mm,2.54mm)(3.175mm,2.54mm) on Top Overlay
+CON: PLD-14              Duplicate Primitives: Track (4.445mm,2.54mm)(5.715mm,2.54mm) on Top Overlay And Track (4.445mm,2.54mm)(5.715mm,2.54mm) on Top Overlay
+CON: PLD-14              Duplicate Primitives: Track (6.985mm,2.54mm)(8.255mm,2.54mm) on Top Overlay And Track (6.985mm,2.54mm)(8.255mm,2.54mm) on Top Overlay
+
+CON: PLD-16              Duplicate Primitives: Track (-9.525mm,2.54mm)(-8.255mm,2.54mm) on Top Overlay And Track (-9.525mm,2.54mm)(-8.255mm,2.54mm) on Top Overlay
+CON: PLD-16              Duplicate Primitives: Track (-6.985mm,2.54mm)(-5.715mm,2.54mm) on Top Overlay And Track (-6.985mm,2.54mm)(-5.715mm,2.54mm) on Top Overlay
+CON: PLD-16              Duplicate Primitives: Track (-4.445mm,2.54mm)(-3.175mm,2.54mm) on Top Overlay And Track (-4.445mm,2.54mm)(-3.175mm,2.54mm) on Top Overlay
+CON: PLD-16              Duplicate Primitives: Track (-1.905mm,2.54mm)(-0.635mm,2.54mm) on Top Overlay And Track (-1.905mm,2.54mm)(-0.635mm,2.54mm) on Top Overlay
+CON: PLD-16              Duplicate Primitives: Track (0.635mm,2.54mm)(1.905mm,2.54mm) on Top Overlay And Track (0.635mm,2.54mm)(1.905mm,2.54mm) on Top Overlay
+CON: PLD-16              Duplicate Primitives: Track (3.175mm,2.54mm)(4.445mm,2.54mm) on Top Overlay And Track (3.175mm,2.54mm)(4.445mm,2.54mm) on Top Overlay
+CON: PLD-16              Duplicate Primitives: Track (5.715mm,2.54mm)(6.985mm,2.54mm) on Top Overlay And Track (5.715mm,2.54mm)(6.985mm,2.54mm) on Top Overlay
+CON: PLD-16              Duplicate Primitives: Track (8.255mm,2.54mm)(9.525mm,2.54mm) on Top Overlay And Track (8.255mm,2.54mm)(9.525mm,2.54mm) on Top Overlay
+CON: PLD-16              Duplicate Primitives: Track (0.635mm,-2.54mm)(1.905mm,-2.54mm) on Top Assy And Track (0.635mm,-2.54mm)(1.905mm,-2.54mm) on Top Assy
+CON: PLD-16              Duplicate Primitives: Track (0.635mm,2.54mm)(1.905mm,2.54mm) on Top Assy And Track (0.635mm,2.54mm)(1.905mm,2.54mm) on Top Assy
+CON: PLD-16              Duplicate Primitives: Track (2.54mm,-1.905mm)(2.54mm,-0.635mm) on Top Assy And Track (2.54mm,-1.905mm)(2.54mm,-0.635mm) on Top Assy
+CON: PLD-16              Duplicate Primitives: Track (2.54mm,0.635mm)(2.54mm,1.905mm) on Top Assy And Track (2.54mm,0.635mm)(2.54mm,1.905mm) on Top Assy
+CON: PLD-16              Duplicate Primitives: Track (0.635mm,0mm)(1.905mm,0mm) on Top Assy And Track (0.635mm,0mm)(1.905mm,0mm) on Top Assy
+CON: PLD-16              Duplicate Primitives: Track (1.905mm,-2.54mm)(2.54mm,-1.905mm) on Top Assy And Track (1.905mm,-2.54mm)(2.54mm,-1.905mm) on Top Assy
+CON: PLD-16              Duplicate Primitives: Track (0mm,-1.905mm)(0.635mm,-2.54mm) on Top Assy And Track (0mm,-1.905mm)(0.635mm,-2.54mm) on Top Assy
+CON: PLD-16              Duplicate Primitives: Track (0mm,0.635mm)(0.635mm,0mm) on Top Assy And Track (0mm,0.635mm)(0.635mm,0mm) on Top Assy
+CON: PLD-16              Duplicate Primitives: Track (1.905mm,0mm)(2.54mm,0.635mm) on Top Assy And Track (1.905mm,0mm)(2.54mm,0.635mm) on Top Assy
+CON: PLD-16              Duplicate Primitives: Track (1.905mm,2.54mm)(2.54mm,1.905mm) on Top Assy And Track (1.905mm,2.54mm)(2.54mm,1.905mm) on Top Assy
+CON: PLD-16              Duplicate Primitives: Track (0mm,1.905mm)(0.635mm,2.54mm) on Top Assy And Track (0mm,1.905mm)(0.635mm,2.54mm) on Top Assy
+CON: PLD-16              Duplicate Primitives: Track (0mm,-0.635mm)(0.635mm,0mm) on Top Assy And Track (0mm,-0.635mm)(0.635mm,0mm) on Top Assy
+CON: PLD-16              Duplicate Primitives: Track (1.905mm,0mm)(2.54mm,-0.635mm) on Top Assy And Track (1.905mm,0mm)(2.54mm,-0.635mm) on Top Assy
+
+CON: PLD-18              Duplicate Primitives: Track (-8.255mm,2.54mm)(-6.985mm,2.54mm) on Top Overlay And Track (-8.255mm,2.54mm)(-6.985mm,2.54mm) on Top Overlay
+CON: PLD-18              Duplicate Primitives: Track (-5.715mm,2.54mm)(-4.445mm,2.54mm) on Top Overlay And Track (-5.715mm,2.54mm)(-4.445mm,2.54mm) on Top Overlay
+CON: PLD-18              Duplicate Primitives: Track (-3.175mm,2.54mm)(-1.905mm,2.54mm) on Top Overlay And Track (-3.175mm,2.54mm)(-1.905mm,2.54mm) on Top Overlay
+CON: PLD-18              Duplicate Primitives: Track (-0.635mm,2.54mm)(0.635mm,2.54mm) on Top Overlay And Track (-0.635mm,2.54mm)(0.635mm,2.54mm) on Top Overlay
+CON: PLD-18              Duplicate Primitives: Track (1.905mm,2.54mm)(3.175mm,2.54mm) on Top Overlay And Track (1.905mm,2.54mm)(3.175mm,2.54mm) on Top Overlay
+CON: PLD-18              Duplicate Primitives: Track (4.445mm,2.54mm)(5.715mm,2.54mm) on Top Overlay And Track (4.445mm,2.54mm)(5.715mm,2.54mm) on Top Overlay
+CON: PLD-18              Duplicate Primitives: Track (-10.795mm,2.54mm)(-9.525mm,2.54mm) on Top Overlay And Track (-10.795mm,2.54mm)(-9.525mm,2.54mm) on Top Overlay
+CON: PLD-18              Duplicate Primitives: Track (6.985mm,2.54mm)(8.255mm,2.54mm) on Top Overlay And Track (6.985mm,2.54mm)(8.255mm,2.54mm) on Top Overlay
+CON: PLD-18              Duplicate Primitives: Track (8.89mm,0.635mm)(8.89mm,1.905mm) on Top Overlay And Track (8.89mm,0.635mm)(8.89mm,1.905mm) on Top Overlay
+CON: PLD-18              Duplicate Primitives: Track (8.89mm,-1.905mm)(8.89mm,-0.635mm) on Top Overlay And Track (8.89mm,-1.905mm)(8.89mm,-0.635mm) on Top Overlay
+CON: PLD-18              Duplicate Primitives: Track (9.525mm,2.54mm)(10.795mm,2.54mm) on Top Overlay And Track (9.525mm,2.54mm)(10.795mm,2.54mm) on Top Overlay
+
+CON: PLD-20              Duplicate Primitives: Track (-9.525mm,2.54mm)(-8.255mm,2.54mm) on Top Overlay And Track (-9.525mm,2.54mm)(-8.255mm,2.54mm) on Top Overlay
+CON: PLD-20              Duplicate Primitives: Track (-6.985mm,2.54mm)(-5.715mm,2.54mm) on Top Overlay And Track (-6.985mm,2.54mm)(-5.715mm,2.54mm) on Top Overlay
+CON: PLD-20              Duplicate Primitives: Track (-4.445mm,2.54mm)(-3.175mm,2.54mm) on Top Overlay And Track (-4.445mm,2.54mm)(-3.175mm,2.54mm) on Top Overlay
+CON: PLD-20              Duplicate Primitives: Track (-1.905mm,2.54mm)(-0.635mm,2.54mm) on Top Overlay And Track (-1.905mm,2.54mm)(-0.635mm,2.54mm) on Top Overlay
+CON: PLD-20              Duplicate Primitives: Track (0.635mm,2.54mm)(1.905mm,2.54mm) on Top Overlay And Track (0.635mm,2.54mm)(1.905mm,2.54mm) on Top Overlay
+CON: PLD-20              Duplicate Primitives: Track (3.175mm,2.54mm)(4.445mm,2.54mm) on Top Overlay And Track (3.175mm,2.54mm)(4.445mm,2.54mm) on Top Overlay
+CON: PLD-20              Duplicate Primitives: Track (-12.065mm,2.54mm)(-10.795mm,2.54mm) on Top Overlay And Track (-12.065mm,2.54mm)(-10.795mm,2.54mm) on Top Overlay
+CON: PLD-20              Duplicate Primitives: Track (5.715mm,2.54mm)(6.985mm,2.54mm) on Top Overlay And Track (5.715mm,2.54mm)(6.985mm,2.54mm) on Top Overlay
+CON: PLD-20              Duplicate Primitives: Track (7.62mm,0.635mm)(7.62mm,1.905mm) on Top Overlay And Track (7.62mm,0.635mm)(7.62mm,1.905mm) on Top Overlay
+CON: PLD-20              Duplicate Primitives: Track (7.62mm,-1.905mm)(7.62mm,-0.635mm) on Top Overlay And Track (7.62mm,-1.905mm)(7.62mm,-0.635mm) on Top Overlay
+CON: PLD-20              Duplicate Primitives: Track (8.255mm,2.54mm)(9.525mm,2.54mm) on Top Overlay And Track (8.255mm,2.54mm)(9.525mm,2.54mm) on Top Overlay
+CON: PLD-20              Duplicate Primitives: Track (10.16mm,-1.905mm)(10.16mm,-0.635mm) on Top Overlay And Track (10.16mm,-1.905mm)(10.16mm,-0.635mm) on Top Overlay
+CON: PLD-20              Duplicate Primitives: Track (10.16mm,0.635mm)(10.16mm,1.905mm) on Top Overlay And Track (10.16mm,0.635mm)(10.16mm,1.905mm) on Top Overlay
+CON: PLD-20              Duplicate Primitives: Track (10.795mm,2.54mm)(12.065mm,2.54mm) on Top Overlay And Track (10.795mm,2.54mm)(12.065mm,2.54mm) on Top Overlay
+CON: PLD-20              Duplicate Primitives: Track (10.16mm,0.635mm)(10.16mm,1.905mm) on Top Overlay And Track (10.16mm,0.635mm)(10.16mm,1.905mm) on Top Overlay
+CON: PLD-20              Duplicate Primitives: Track (10.16mm,-1.905mm)(10.16mm,-0.635mm) on Top Overlay And Track (10.16mm,-1.905mm)(10.16mm,-0.635mm) on Top Overlay
+
+CON: PLD-24              Duplicate Primitives: Track (7.62mm,0.635mm)(7.62mm,1.905mm) on Top Overlay And Track (7.62mm,0.635mm)(7.62mm,1.905mm) on Top Overlay
+CON: PLD-24              Duplicate Primitives: Track (7.62mm,-1.905mm)(7.62mm,-0.635mm) on Top Overlay And Track (7.62mm,-1.905mm)(7.62mm,-0.635mm) on Top Overlay
+CON: PLD-24              Duplicate Primitives: Track (8.255mm,2.54mm)(9.525mm,2.54mm) on Top Overlay And Track (8.255mm,2.54mm)(9.525mm,2.54mm) on Top Overlay
+CON: PLD-24              Duplicate Primitives: Track (7.62mm,-1.905mm)(7.62mm,-0.635mm) on Top Overlay And Track (7.62mm,-1.905mm)(7.62mm,-0.635mm) on Top Overlay
+CON: PLD-24              Duplicate Primitives: Track (7.62mm,0.635mm)(7.62mm,1.905mm) on Top Overlay And Track (7.62mm,0.635mm)(7.62mm,1.905mm) on Top Overlay
+CON: PLD-24              Duplicate Primitives: Track (5.715mm,2.54mm)(6.985mm,2.54mm) on Top Overlay And Track (5.715mm,2.54mm)(6.985mm,2.54mm) on Top Overlay
+CON: PLD-24              Duplicate Primitives: Track (5.08mm,0.635mm)(5.08mm,1.905mm) on Top Overlay And Track (5.08mm,0.635mm)(5.08mm,1.905mm) on Top Overlay
+CON: PLD-24              Duplicate Primitives: Track (-14.605mm,2.54mm)(-13.335mm,2.54mm) on Top Overlay And Track (-14.605mm,2.54mm)(-13.335mm,2.54mm) on Top Overlay
+CON: PLD-24              Duplicate Primitives: Track (-12.065mm,2.54mm)(-10.795mm,2.54mm) on Top Overlay And Track (-12.065mm,2.54mm)(-10.795mm,2.54mm) on Top Overlay
+CON: PLD-24              Duplicate Primitives: Track (-9.525mm,2.54mm)(-8.255mm,2.54mm) on Top Overlay And Track (-9.525mm,2.54mm)(-8.255mm,2.54mm) on Top Overlay
+CON: PLD-24              Duplicate Primitives: Track (-6.985mm,2.54mm)(-5.715mm,2.54mm) on Top Overlay And Track (-6.985mm,2.54mm)(-5.715mm,2.54mm) on Top Overlay
+CON: PLD-24              Duplicate Primitives: Track (-4.445mm,2.54mm)(-3.175mm,2.54mm) on Top Overlay And Track (-4.445mm,2.54mm)(-3.175mm,2.54mm) on Top Overlay
+CON: PLD-24              Duplicate Primitives: Track (-1.905mm,2.54mm)(-0.635mm,2.54mm) on Top Overlay And Track (-1.905mm,2.54mm)(-0.635mm,2.54mm) on Top Overlay
+CON: PLD-24              Duplicate Primitives: Track (0.635mm,2.54mm)(1.905mm,2.54mm) on Top Overlay And Track (0.635mm,2.54mm)(1.905mm,2.54mm) on Top Overlay
+CON: PLD-24              Duplicate Primitives: Track (5.08mm,-1.905mm)(5.08mm,-0.635mm) on Top Overlay And Track (5.08mm,-1.905mm)(5.08mm,-0.635mm) on Top Overlay
+CON: PLD-24              Duplicate Primitives: Track (3.175mm,2.54mm)(4.445mm,2.54mm) on Top Overlay And Track (3.175mm,2.54mm)(4.445mm,2.54mm) on Top Overlay
+CON: PLD-24              Duplicate Primitives: Track (10.16mm,-1.905mm)(10.16mm,-0.635mm) on Top Overlay And Track (10.16mm,-1.905mm)(10.16mm,-0.635mm) on Top Overlay
+CON: PLD-24              Duplicate Primitives: Track (10.16mm,0.635mm)(10.16mm,1.905mm) on Top Overlay And Track (10.16mm,0.635mm)(10.16mm,1.905mm) on Top Overlay
+CON: PLD-24              Duplicate Primitives: Track (10.16mm,0.635mm)(10.16mm,1.905mm) on Top Overlay And Track (10.16mm,0.635mm)(10.16mm,1.905mm) on Top Overlay
+CON: PLD-24              Duplicate Primitives: Track (10.16mm,-1.905mm)(10.16mm,-0.635mm) on Top Overlay And Track (10.16mm,-1.905mm)(10.16mm,-0.635mm) on Top Overlay
+CON: PLD-24              Duplicate Primitives: Track (10.795mm,2.54mm)(12.065mm,2.54mm) on Top Overlay And Track (10.795mm,2.54mm)(12.065mm,2.54mm) on Top Overlay
+CON: PLD-24              Duplicate Primitives: Track (12.7mm,-1.905mm)(12.7mm,-0.635mm) on Top Overlay And Track (12.7mm,-1.905mm)(12.7mm,-0.635mm) on Top Overlay
+CON: PLD-24              Duplicate Primitives: Track (12.7mm,0.635mm)(12.7mm,1.905mm) on Top Overlay And Track (12.7mm,0.635mm)(12.7mm,1.905mm) on Top Overlay
+CON: PLD-24              Duplicate Primitives: Track (13.335mm,2.54mm)(14.605mm,2.54mm) on Top Overlay And Track (13.335mm,2.54mm)(14.605mm,2.54mm) on Top Overlay
+CON: PLD-24              Duplicate Primitives: Track (12.7mm,0.635mm)(12.7mm,1.905mm) on Top Overlay And Track (12.7mm,0.635mm)(12.7mm,1.905mm) on Top Overlay
+CON: PLD-24              Duplicate Primitives: Track (12.7mm,-1.905mm)(12.7mm,-0.635mm) on Top Overlay And Track (12.7mm,-1.905mm)(12.7mm,-0.635mm) on Top Overlay
+
+CON: PLD-26              Duplicate Primitives: Track (11.43mm,0.635mm)(11.43mm,1.905mm) on Top Overlay And Track (11.43mm,0.635mm)(11.43mm,1.905mm) on Top Overlay
+CON: PLD-26              Duplicate Primitives: Track (11.43mm,-1.905mm)(11.43mm,-0.635mm) on Top Overlay And Track (11.43mm,-1.905mm)(11.43mm,-0.635mm) on Top Overlay
+CON: PLD-26              Duplicate Primitives: Track (12.065mm,2.54mm)(13.335mm,2.54mm) on Top Overlay And Track (12.065mm,2.54mm)(13.335mm,2.54mm) on Top Overlay
+CON: PLD-26              Duplicate Primitives: Track (11.43mm,-1.905mm)(11.43mm,-0.635mm) on Top Overlay And Track (11.43mm,-1.905mm)(11.43mm,-0.635mm) on Top Overlay
+CON: PLD-26              Duplicate Primitives: Track (11.43mm,0.635mm)(11.43mm,1.905mm) on Top Overlay And Track (11.43mm,0.635mm)(11.43mm,1.905mm) on Top Overlay
+CON: PLD-26              Duplicate Primitives: Track (9.525mm,2.54mm)(10.795mm,2.54mm) on Top Overlay And Track (9.525mm,2.54mm)(10.795mm,2.54mm) on Top Overlay
+CON: PLD-26              Duplicate Primitives: Track (8.89mm,0.635mm)(8.89mm,1.905mm) on Top Overlay And Track (8.89mm,0.635mm)(8.89mm,1.905mm) on Top Overlay
+CON: PLD-26              Duplicate Primitives: Track (8.89mm,-1.905mm)(8.89mm,-0.635mm) on Top Overlay And Track (8.89mm,-1.905mm)(8.89mm,-0.635mm) on Top Overlay
+CON: PLD-26              Duplicate Primitives: Track (-13.335mm,2.54mm)(-12.065mm,2.54mm) on Top Overlay And Track (-13.335mm,2.54mm)(-12.065mm,2.54mm) on Top Overlay
+CON: PLD-26              Duplicate Primitives: Track (-10.795mm,2.54mm)(-9.525mm,2.54mm) on Top Overlay And Track (-10.795mm,2.54mm)(-9.525mm,2.54mm) on Top Overlay
+CON: PLD-26              Duplicate Primitives: Track (-8.255mm,2.54mm)(-6.985mm,2.54mm) on Top Overlay And Track (-8.255mm,2.54mm)(-6.985mm,2.54mm) on Top Overlay
+CON: PLD-26              Duplicate Primitives: Track (-5.715mm,2.54mm)(-4.445mm,2.54mm) on Top Overlay And Track (-5.715mm,2.54mm)(-4.445mm,2.54mm) on Top Overlay
+CON: PLD-26              Duplicate Primitives: Track (-3.175mm,2.54mm)(-1.905mm,2.54mm) on Top Overlay And Track (-3.175mm,2.54mm)(-1.905mm,2.54mm) on Top Overlay
+CON: PLD-26              Duplicate Primitives: Track (-0.635mm,2.54mm)(0.635mm,2.54mm) on Top Overlay And Track (-0.635mm,2.54mm)(0.635mm,2.54mm) on Top Overlay
+CON: PLD-26              Duplicate Primitives: Track (-15.875mm,2.54mm)(-14.605mm,2.54mm) on Top Overlay And Track (-15.875mm,2.54mm)(-14.605mm,2.54mm) on Top Overlay
+CON: PLD-26              Duplicate Primitives: Track (1.905mm,2.54mm)(3.175mm,2.54mm) on Top Overlay And Track (1.905mm,2.54mm)(3.175mm,2.54mm) on Top Overlay
+CON: PLD-26              Duplicate Primitives: Track (3.81mm,0.635mm)(3.81mm,1.905mm) on Top Overlay And Track (3.81mm,0.635mm)(3.81mm,1.905mm) on Top Overlay
+CON: PLD-26              Duplicate Primitives: Track (3.81mm,-1.905mm)(3.81mm,-0.635mm) on Top Overlay And Track (3.81mm,-1.905mm)(3.81mm,-0.635mm) on Top Overlay
+CON: PLD-26              Duplicate Primitives: Track (4.445mm,2.54mm)(5.715mm,2.54mm) on Top Overlay And Track (4.445mm,2.54mm)(5.715mm,2.54mm) on Top Overlay
+CON: PLD-26              Duplicate Primitives: Track (6.35mm,-1.905mm)(6.35mm,-0.635mm) on Top Overlay And Track (6.35mm,-1.905mm)(6.35mm,-0.635mm) on Top Overlay
+CON: PLD-26              Duplicate Primitives: Track (8.89mm,-1.905mm)(8.89mm,-0.635mm) on Top Overlay And Track (8.89mm,-1.905mm)(8.89mm,-0.635mm) on Top Overlay
+CON: PLD-26              Duplicate Primitives: Track (8.89mm,0.635mm)(8.89mm,1.905mm) on Top Overlay And Track (8.89mm,0.635mm)(8.89mm,1.905mm) on Top Overlay
+CON: PLD-26              Duplicate Primitives: Track (6.35mm,0.635mm)(6.35mm,1.905mm) on Top Overlay And Track (6.35mm,0.635mm)(6.35mm,1.905mm) on Top Overlay
+CON: PLD-26              Duplicate Primitives: Track (6.985mm,2.54mm)(8.255mm,2.54mm) on Top Overlay And Track (6.985mm,2.54mm)(8.255mm,2.54mm) on Top Overlay
+CON: PLD-26              Duplicate Primitives: Track (6.35mm,0.635mm)(6.35mm,1.905mm) on Top Overlay And Track (6.35mm,0.635mm)(6.35mm,1.905mm) on Top Overlay
+CON: PLD-26              Duplicate Primitives: Track (6.35mm,-1.905mm)(6.35mm,-0.635mm) on Top Overlay And Track (6.35mm,-1.905mm)(6.35mm,-0.635mm) on Top Overlay
+CON: PLD-26              Duplicate Primitives: Track (14.605mm,2.54mm)(15.875mm,2.54mm) on Top Overlay And Track (14.605mm,2.54mm)(15.875mm,2.54mm) on Top Overlay
+
+CON: PLLD-8              Duplicate Pad Name On Pads Pad Free-(1.27mm,0mm) on Multi-Layer And Pad Free-(-1.27mm,0mm) on Multi-Layer
+CON: PLLD-8              Duplicate Pad Name On Pads Pad Free-(-2.1mm,2mm) on Top Assy And Pad Free-(-1.27mm,0mm) on Multi-Layer
+CON: PLLD-8              Duplicate Pad Name On Pads Pad Free-(-3.2mm,3mm) on Top Overlay And Pad Free-(-1.27mm,0mm) on Multi-Layer
+
+CON: PLS-20              Duplicate Primitives: Track (25.4mm,-1.27mm)(25.4mm,1.27mm) on Size Area And Track (25.4mm,-1.27mm)(25.4mm,1.27mm) on Size Area
+
+ENC: PEC-12              Duplicate Pad Name On Pads Pad Free-(9.15mm,7.625mm) on Multi-Layer And Pad Free-(-4.05mm,7.625mm) on Multi-Layer
+
+IC: LMG5200              Duplicate Pad Name On Pads Pad Free-(-2.55mm,0.95mm) on Top Paste And Pad Free-(-2.55mm,0.1mm) on Top Paste
+IC: LMG5200              Duplicate Pad Name On Pads Pad Free-(-2.55mm,1.8mm) on Top Paste And Pad Free-(-2.55mm,0.1mm) on Top Paste
+IC: LMG5200              Duplicate Pad Name On Pads Pad Free-(-2.55mm,2.65mm) on Top Paste And Pad Free-(-2.55mm,0.1mm) on Top Paste
+IC: LMG5200              Duplicate Pad Name On Pads Pad Free-(-2.55mm,3.5mm) on Top Paste And Pad Free-(-2.55mm,0.1mm) on Top Paste
+IC: LMG5200              Duplicate Pad Name On Pads Pad Free-(2.55mm,3.5mm) on Top Paste And Pad Free-(-2.55mm,0.1mm) on Top Paste
+IC: LMG5200              Duplicate Pad Name On Pads Pad Free-(2.55mm,2.65mm) on Top Paste And Pad Free-(-2.55mm,0.1mm) on Top Paste
+IC: LMG5200              Duplicate Pad Name On Pads Pad Free-(2.55mm,1.8mm) on Top Paste And Pad Free-(-2.55mm,0.1mm) on Top Paste
+IC: LMG5200              Duplicate Pad Name On Pads Pad Free-(2.55mm,0.95mm) on Top Paste And Pad Free-(-2.55mm,0.1mm) on Top Paste
+IC: LMG5200              Duplicate Pad Name On Pads Pad Free-(2.55mm,0.1mm) on Top Paste And Pad Free-(-2.55mm,0.1mm) on Top Paste
+IC: LMG5200              Duplicate Pad Name On Pads Pad Free-(0mm,3.5mm) on Top Paste And Pad Free-(-2.55mm,0.1mm) on Top Paste
+IC: LMG5200              Duplicate Pad Name On Pads Pad Free-(0mm,2.65mm) on Top Paste And Pad Free-(-2.55mm,0.1mm) on Top Paste
+IC: LMG5200              Duplicate Pad Name On Pads Pad Free-(0mm,1.8mm) on Top Paste And Pad Free-(-2.55mm,0.1mm) on Top Paste
+IC: LMG5200              Duplicate Pad Name On Pads Pad Free-(0mm,0.95mm) on Top Paste And Pad Free-(-2.55mm,0.1mm) on Top Paste
+IC: LMG5200              Duplicate Pad Name On Pads Pad Free-(0mm,0.1mm) on Top Paste And Pad Free-(-2.55mm,0.1mm) on Top Paste
+IC: LMG5200              Duplicate Pad Name On Pads Pad Free-(-2.55mm,3.5mm) on Top Assy And Pad Free-(-2.55mm,0.1mm) on Top Paste
+IC: LMG5200              Duplicate Pad Name On Pads Pad Free-(-3.6mm,3.9mm) on Top Overlay And Pad Free-(-2.55mm,0.1mm) on Top Paste
+
+TRANS: RM12              Duplicate Pad Name On Pads Pad Free-(0mm,25.4mm) on Multi-Layer And Pad Free-(-27.94mm,-2.54mm) on Multi-Layer
+
+BUT: 6x6 SMD             Duplicate Pad Name On Pads Pad Free-2(-4.5mm,-2.25mm) on Top Layer And Pad Free-2(4.5mm,-2.25mm) on Top Layer
+BUT: 6x6 SMD             Duplicate Pad Name On Pads Pad Free-1(-4.5mm,2.25mm) on Top Layer And Pad Free-1(4.5mm,2.25mm) on Top Layer
+
+CON: 7461057             Duplicate Pad Name On Pads Pad Free-1(-2.54mm,-2.54mm) on Multi-Layer And Pad Free-1(0mm,-2.54mm) on Multi-Layer
+CON: 7461057             Duplicate Pad Name On Pads Pad Free-1(2.54mm,-2.54mm) on Multi-Layer And Pad Free-1(0mm,-2.54mm) on Multi-Layer
+CON: 7461057             Duplicate Pad Name On Pads Pad Free-1(2.54mm,2.54mm) on Multi-Layer And Pad Free-1(0mm,-2.54mm) on Multi-Layer
+CON: 7461057             Duplicate Pad Name On Pads Pad Free-1(0mm,2.54mm) on Multi-Layer And Pad Free-1(0mm,-2.54mm) on Multi-Layer
+CON: 7461057             Duplicate Pad Name On Pads Pad Free-1(-2.54mm,2.54mm) on Multi-Layer And Pad Free-1(0mm,-2.54mm) on Multi-Layer
+CON: 7461057             Duplicate Pad Name On Pads Pad Free-1(0mm,0mm) on Top Layer And Pad Free-1(0mm,-2.54mm) on Multi-Layer
+CON: 7461057             Duplicate Pad Name On Pads Pad Free-1(0mm,0mm) on Bottom Layer And Pad Free-1(0mm,-2.54mm) on Multi-Layer
+
+CON: 7461097             Duplicate Pad Name On Pads Pad Free-1(-1.27mm,3.81mm) on Multi-Layer And Pad Free-1(-3.81mm,3.81mm) on Multi-Layer
+CON: 7461097             Duplicate Pad Name On Pads Pad Free-1(1.27mm,3.81mm) on Multi-Layer And Pad Free-1(-3.81mm,3.81mm) on Multi-Layer
+CON: 7461097             Duplicate Pad Name On Pads Pad Free-1(3.81mm,3.81mm) on Multi-Layer And Pad Free-1(-3.81mm,3.81mm) on Multi-Layer
+CON: 7461097             Duplicate Pad Name On Pads Pad Free-1(-3.81mm,1.27mm) on Multi-Layer And Pad Free-1(-3.81mm,3.81mm) on Multi-Layer
+CON: 7461097             Duplicate Pad Name On Pads Pad Free-1(-1.27mm,1.27mm) on Multi-Layer And Pad Free-1(-3.81mm,3.81mm) on Multi-Layer
+CON: 7461097             Duplicate Pad Name On Pads Pad Free-1(1.27mm,1.27mm) on Multi-Layer And Pad Free-1(-3.81mm,3.81mm) on Multi-Layer
+CON: 7461097             Duplicate Pad Name On Pads Pad Free-1(3.81mm,1.27mm) on Multi-Layer And Pad Free-1(-3.81mm,3.81mm) on Multi-Layer
+CON: 7461097             Duplicate Pad Name On Pads Pad Free-1(3.81mm,-3.81mm) on Multi-Layer And Pad Free-1(-3.81mm,3.81mm) on Multi-Layer
+CON: 7461097             Duplicate Pad Name On Pads Pad Free-1(1.27mm,-3.81mm) on Multi-Layer And Pad Free-1(-3.81mm,3.81mm) on Multi-Layer
+CON: 7461097             Duplicate Pad Name On Pads Pad Free-1(-1.27mm,-3.81mm) on Multi-Layer And Pad Free-1(-3.81mm,3.81mm) on Multi-Layer
+CON: 7461097             Duplicate Pad Name On Pads Pad Free-1(-3.81mm,-3.81mm) on Multi-Layer And Pad Free-1(-3.81mm,3.81mm) on Multi-Layer
+CON: 7461097             Duplicate Pad Name On Pads Pad Free-1(3.81mm,-1.27mm) on Multi-Layer And Pad Free-1(-3.81mm,3.81mm) on Multi-Layer
+CON: 7461097             Duplicate Pad Name On Pads Pad Free-1(1.27mm,-1.27mm) on Multi-Layer And Pad Free-1(-3.81mm,3.81mm) on Multi-Layer
+CON: 7461097             Duplicate Pad Name On Pads Pad Free-1(-1.27mm,-1.27mm) on Multi-Layer And Pad Free-1(-3.81mm,3.81mm) on Multi-Layer
+CON: 7461097             Duplicate Pad Name On Pads Pad Free-1(-3.81mm,-1.27mm) on Multi-Layer And Pad Free-1(-3.81mm,3.81mm) on Multi-Layer
+CON: 7461097             Duplicate Pad Name On Pads Pad Free-1(0mm,0mm) on Top Layer And Pad Free-1(-3.81mm,3.81mm) on Multi-Layer
+CON: 7461097             Duplicate Pad Name On Pads Pad Free-1(0mm,0mm) on Bottom Layer And Pad Free-1(-3.81mm,3.81mm) on Multi-Layer
+
+CON: 7461098             Duplicate Pad Name On Pads Pad Free-1(-2.54mm,0mm) on Multi-Layer And Pad Free-1(-5.08mm,0mm) on Multi-Layer
+CON: 7461098             Duplicate Pad Name On Pads Pad Free-1(0mm,0mm) on Multi-Layer And Pad Free-1(-5.08mm,0mm) on Multi-Layer
+CON: 7461098             Duplicate Pad Name On Pads Pad Free-1(2.54mm,0mm) on Multi-Layer And Pad Free-1(-5.08mm,0mm) on Multi-Layer
+CON: 7461098             Duplicate Pad Name On Pads Pad Free-1(5.08mm,0mm) on Multi-Layer And Pad Free-1(-5.08mm,0mm) on Multi-Layer
+CON: 7461098             Duplicate Pad Name On Pads Pad Free-1(5.08mm,2.54mm) on Multi-Layer And Pad Free-1(-5.08mm,0mm) on Multi-Layer
+CON: 7461098             Duplicate Pad Name On Pads Pad Free-1(2.54mm,2.54mm) on Multi-Layer And Pad Free-1(-5.08mm,0mm) on Multi-Layer
+CON: 7461098             Duplicate Pad Name On Pads Pad Free-1(0mm,2.54mm) on Multi-Layer And Pad Free-1(-5.08mm,0mm) on Multi-Layer
+CON: 7461098             Duplicate Pad Name On Pads Pad Free-1(-2.54mm,2.54mm) on Multi-Layer And Pad Free-1(-5.08mm,0mm) on Multi-Layer
+CON: 7461098             Duplicate Pad Name On Pads Pad Free-1(-5.08mm,2.54mm) on Multi-Layer And Pad Free-1(-5.08mm,0mm) on Multi-Layer
+CON: 7461098             Duplicate Pad Name On Pads Pad Free-1(5.08mm,5.08mm) on Multi-Layer And Pad Free-1(-5.08mm,0mm) on Multi-Layer
+CON: 7461098             Duplicate Pad Name On Pads Pad Free-1(2.54mm,5.08mm) on Multi-Layer And Pad Free-1(-5.08mm,0mm) on Multi-Layer
+CON: 7461098             Duplicate Pad Name On Pads Pad Free-1(0mm,5.08mm) on Multi-Layer And Pad Free-1(-5.08mm,0mm) on Multi-Layer
+CON: 7461098             Duplicate Pad Name On Pads Pad Free-1(-2.54mm,5.08mm) on Multi-Layer And Pad Free-1(-5.08mm,0mm) on Multi-Layer
+CON: 7461098             Duplicate Pad Name On Pads Pad Free-1(-5.08mm,5.08mm) on Multi-Layer And Pad Free-1(-5.08mm,0mm) on Multi-Layer
+CON: 7461098             Duplicate Pad Name On Pads Pad Free-1(5.08mm,-2.54mm) on Multi-Layer And Pad Free-1(-5.08mm,0mm) on Multi-Layer
+CON: 7461098             Duplicate Pad Name On Pads Pad Free-1(2.54mm,-2.54mm) on Multi-Layer And Pad Free-1(-5.08mm,0mm) on Multi-Layer
+CON: 7461098             Duplicate Pad Name On Pads Pad Free-1(0mm,-2.54mm) on Multi-Layer And Pad Free-1(-5.08mm,0mm) on Multi-Layer
+CON: 7461098             Duplicate Pad Name On Pads Pad Free-1(-2.54mm,-2.54mm) on Multi-Layer And Pad Free-1(-5.08mm,0mm) on Multi-Layer
+CON: 7461098             Duplicate Pad Name On Pads Pad Free-1(-5.08mm,-2.54mm) on Multi-Layer And Pad Free-1(-5.08mm,0mm) on Multi-Layer
+CON: 7461098             Duplicate Pad Name On Pads Pad Free-1(5.08mm,-5.08mm) on Multi-Layer And Pad Free-1(-5.08mm,0mm) on Multi-Layer
+CON: 7461098             Duplicate Pad Name On Pads Pad Free-1(2.54mm,-5.08mm) on Multi-Layer And Pad Free-1(-5.08mm,0mm) on Multi-Layer
+CON: 7461098             Duplicate Pad Name On Pads Pad Free-1(0mm,-5.08mm) on Multi-Layer And Pad Free-1(-5.08mm,0mm) on Multi-Layer
+CON: 7461098             Duplicate Pad Name On Pads Pad Free-1(-2.54mm,-5.08mm) on Multi-Layer And Pad Free-1(-5.08mm,0mm) on Multi-Layer
+CON: 7461098             Duplicate Pad Name On Pads Pad Free-1(-5.08mm,-5.08mm) on Multi-Layer And Pad Free-1(-5.08mm,0mm) on Multi-Layer
+CON: 7461098             Duplicate Pad Name On Pads Pad Free-1(0mm,0mm) on Top Layer And Pad Free-1(-5.08mm,0mm) on Multi-Layer
+CON: 7461098             Duplicate Pad Name On Pads Pad Free-1(0mm,0mm) on Bottom Layer And Pad Free-1(-5.08mm,0mm) on Multi-Layer
+
+CON: 7461383             Duplicate Pad Name On Pads Pad Free-1(-1.27mm,3.81mm) on Multi-Layer And Pad Free-1(0mm,0mm) on Top Layer
+CON: 7461383             Duplicate Pad Name On Pads Pad Free-1(-3.81mm,3.81mm) on Multi-Layer And Pad Free-1(0mm,0mm) on Top Layer
+CON: 7461383             Duplicate Pad Name On Pads Pad Free-1(1.27mm,3.81mm) on Multi-Layer And Pad Free-1(0mm,0mm) on Top Layer
+CON: 7461383             Duplicate Pad Name On Pads Pad Free-1(3.81mm,3.81mm) on Multi-Layer And Pad Free-1(0mm,0mm) on Top Layer
+CON: 7461383             Duplicate Pad Name On Pads Pad Free-1(-1.27mm,1.27mm) on Multi-Layer And Pad Free-1(0mm,0mm) on Top Layer
+CON: 7461383             Duplicate Pad Name On Pads Pad Free-1(-3.81mm,1.27mm) on Multi-Layer And Pad Free-1(0mm,0mm) on Top Layer
+CON: 7461383             Duplicate Pad Name On Pads Pad Free-1(1.27mm,1.27mm) on Multi-Layer And Pad Free-1(0mm,0mm) on Top Layer
+CON: 7461383             Duplicate Pad Name On Pads Pad Free-1(3.81mm,1.27mm) on Multi-Layer And Pad Free-1(0mm,0mm) on Top Layer
+CON: 7461383             Duplicate Pad Name On Pads Pad Free-1(-1.27mm,-1.27mm) on Multi-Layer And Pad Free-1(0mm,0mm) on Top Layer
+CON: 7461383             Duplicate Pad Name On Pads Pad Free-1(-3.81mm,-1.27mm) on Multi-Layer And Pad Free-1(0mm,0mm) on Top Layer
+CON: 7461383             Duplicate Pad Name On Pads Pad Free-1(1.27mm,-1.27mm) on Multi-Layer And Pad Free-1(0mm,0mm) on Top Layer
+CON: 7461383             Duplicate Pad Name On Pads Pad Free-1(3.81mm,-1.27mm) on Multi-Layer And Pad Free-1(0mm,0mm) on Top Layer
+CON: 7461383             Duplicate Pad Name On Pads Pad Free-1(3.81mm,-3.81mm) on Multi-Layer And Pad Free-1(0mm,0mm) on Top Layer
+CON: 7461383             Duplicate Pad Name On Pads Pad Free-1(1.27mm,-3.81mm) on Multi-Layer And Pad Free-1(0mm,0mm) on Top Layer
+CON: 7461383             Duplicate Pad Name On Pads Pad Free-1(-3.81mm,-3.81mm) on Multi-Layer And Pad Free-1(0mm,0mm) on Top Layer
+CON: 7461383             Duplicate Pad Name On Pads Pad Free-1(-1.27mm,-3.81mm) on Multi-Layer And Pad Free-1(0mm,0mm) on Top Layer
+CON: 7461383             Duplicate Pad Name On Pads Pad Free-1(0mm,0mm) on Bottom Layer And Pad Free-1(0mm,0mm) on Top Layer
+
+CON: IDC-6MS             Duplicate Pad Name On Pads Pad Free-(-9.6mm,-4.5mm) on Top Overlay And Pad Free-(-8.4mm,-4mm) on Top Assy
+
+FUSE: CQ-216             Duplicate Pad Name On Pads Pad Free-1(-20.65mm,0mm) on Multi-Layer And Pad Free-1(-15.8mm,0mm) on Multi-Layer
+FUSE: CQ-216             Duplicate Pad Name On Pads Pad Free-1(-10.95mm,0mm) on Multi-Layer And Pad Free-1(-15.8mm,0mm) on Multi-Layer
+FUSE: CQ-216             Duplicate Pad Name On Pads Pad Free-2(20.65mm,0mm) on Multi-Layer And Pad Free-2(15.8mm,0mm) on Multi-Layer
+FUSE: CQ-216             Duplicate Pad Name On Pads Pad Free-2(10.95mm,0mm) on Multi-Layer And Pad Free-2(15.8mm,0mm) on Multi-Layer
+
+IC: PWD13F60             Duplicate Pad Name On Pads Pad Free-8(0.85mm,-12.995mm) on Top Layer And Pad Free-8(3.2mm,-12.995mm) on Top Layer
+IC: PWD13F60             Duplicate Pad Name On Pads Pad Free-10(10mm,-9.52mm) on Top Layer And Pad Free-10(8.575mm,-12.995mm) on Top Layer
+IC: PWD13F60             Duplicate Pad Name On Pads Pad Free-10(10mm,-12.12mm) on Top Layer And Pad Free-10(8.575mm,-12.995mm) on Top Layer
+IC: PWD13F60             Duplicate Pad Name On Pads Pad Free-10(5.975mm,-12.995mm) on Top Layer And Pad Free-10(8.575mm,-12.995mm) on Top Layer
+IC: PWD13F60             Duplicate Pad Name On Pads Pad Free-16(6.825mm,-0.045mm) on Top Layer And Pad Free-16(9.19mm,-0.045mm) on Top Layer
+IC: PWD13F60             Duplicate Pad Name On Pads Pad Free-1(0.05mm,-0.92mm) on Top Layer And Pad Free-1(4.075mm,-0.045mm) on Top Layer
+IC: PWD13F60             Duplicate Pad Name On Pads Pad Free-1(0.05mm,-3.52mm) on Top Layer And Pad Free-1(4.075mm,-0.045mm) on Top Layer
+IC: PWD13F60             Duplicate Pad Name On Pads Pad Free-1(1.475mm,-0.045mm) on Top Layer And Pad Free-1(4.075mm,-0.045mm) on Top Layer
+IC: PWD13F60             Duplicate Pad Name On Pads Pad Free-2(0.05mm,-7.195mm) on Top Layer And Pad Free-2(0.05mm,-5.27mm) on Top Layer
+IC: PWD13F60             Duplicate Pad Name On Pads Pad Free-2(9.975mm,-5.87mm) on Top Layer And Pad Free-2(0.05mm,-5.27mm) on Top Layer
+IC: PWD13F60             Duplicate Pad Name On Pads Pad Free-2(9.975mm,-7.795mm) on Top Layer And Pad Free-2(0.05mm,-5.27mm) on Top Layer
+IC: PWD13F60             Duplicate Pad Name On Pads Pad Free-(0.475mm,-0.45mm) on Top Assy And Pad Free-(-0.7mm,0mm) on Top Overlay
+
+IND: PQ26/20             Duplicate Pad Name On Pads Pad Free-2(25.4mm,7.62mm) on Multi-Layer And Pad Free-2(25.4mm,11.43mm) on Multi-Layer
+IND: PQ26/20             Duplicate Pad Name On Pads Pad Free-2(25.4mm,3.81mm) on Multi-Layer And Pad Free-2(25.4mm,11.43mm) on Multi-Layer
+IND: PQ26/20             Duplicate Pad Name On Pads Pad Free-2(25.4mm,-3.81mm) on Multi-Layer And Pad Free-2(25.4mm,11.43mm) on Multi-Layer
+IND: PQ26/20             Duplicate Pad Name On Pads Pad Free-2(25.4mm,-7.62mm) on Multi-Layer And Pad Free-2(25.4mm,11.43mm) on Multi-Layer
+IND: PQ26/20             Duplicate Pad Name On Pads Pad Free-2(25.4mm,-11.43mm) on Multi-Layer And Pad Free-2(25.4mm,11.43mm) on Multi-Layer
+IND: PQ26/20             Duplicate Pad Name On Pads Pad Free-1(0mm,-7.62mm) on Multi-Layer And Pad Free-1(0mm,-11.43mm) on Multi-Layer
+IND: PQ26/20             Duplicate Pad Name On Pads Pad Free-1(0mm,-3.81mm) on Multi-Layer And Pad Free-1(0mm,-11.43mm) on Multi-Layer
+IND: PQ26/20             Duplicate Pad Name On Pads Pad Free-1(0mm,3.81mm) on Multi-Layer And Pad Free-1(0mm,-11.43mm) on Multi-Layer
+IND: PQ26/20             Duplicate Pad Name On Pads Pad Free-1(0mm,7.62mm) on Multi-Layer And Pad Free-1(0mm,-11.43mm) on Multi-Layer
+IND: PQ26/20             Duplicate Pad Name On Pads Pad Free-1(0mm,11.43mm) on Multi-Layer And Pad Free-1(0mm,-11.43mm) on Multi-Layer
+
+REL: EC2-3NU             Duplicate Pad Name On Pads Pad Free-(-7.3mm,-4.2mm) on Top Overlay And Pad Free-(-6.85mm,-3.04mm) on Top Assy
+
+CAP: MKP1848S            Duplicate Pad Name On Pads Pad Free-1(-26.3mm,-10.2mm) on Multi-Layer And Pad Free-1(-26.3mm,10.1mm) on Multi-Layer
+CAP: MKP1848S            Duplicate Pad Name On Pads Pad Free-2(26.2mm,-10.2mm) on Multi-Layer And Pad Free-2(26.2mm,10.1mm) on Multi-Layer
+
+CON: IDC-10MS            Duplicate Pad Name On Pads Pad Free-(-9.6mm,-4mm) on Top Overlay And Pad Free-(-9.6mm,-4mm) on Top Assy
+
+CON: TH 3.5mm            Duplicate Pad Name On Pads Pad Free-1(-1.2mm,-2mm) on Multi-Layer And Pad Free-1(-2.1mm,-1.2mm) on Multi-Layer
+CON: TH 3.5mm            Duplicate Pad Name On Pads Pad Free-1(-1.2mm,2.1mm) on Multi-Layer And Pad Free-1(-2.1mm,-1.2mm) on Multi-Layer
+CON: TH 3.5mm            Duplicate Pad Name On Pads Pad Free-1(-2mm,1.2mm) on Multi-Layer And Pad Free-1(-2.1mm,-1.2mm) on Multi-Layer
+CON: TH 3.5mm            Duplicate Pad Name On Pads Pad Free-1(2.1mm,1.2mm) on Multi-Layer And Pad Free-1(-2.1mm,-1.2mm) on Multi-Layer
+CON: TH 3.5mm            Duplicate Pad Name On Pads Pad Free-1(1.2mm,2mm) on Multi-Layer And Pad Free-1(-2.1mm,-1.2mm) on Multi-Layer
+CON: TH 3.5mm            Duplicate Pad Name On Pads Pad Free-1(2mm,-1.2mm) on Multi-Layer And Pad Free-1(-2.1mm,-1.2mm) on Multi-Layer
+CON: TH 3.5mm            Duplicate Pad Name On Pads Pad Free-1(1.2mm,-2.1mm) on Multi-Layer And Pad Free-1(-2.1mm,-1.2mm) on Multi-Layer
+CON: TH 3.5mm            Duplicate Pad Name On Pads Pad Free-1(0mm,-2.4mm) on Multi-Layer And Pad Free-1(-2.1mm,-1.2mm) on Multi-Layer
+CON: TH 3.5mm            Duplicate Pad Name On Pads Pad Free-1(2.4mm,0mm) on Multi-Layer And Pad Free-1(-2.1mm,-1.2mm) on Multi-Layer
+CON: TH 3.5mm            Duplicate Pad Name On Pads Pad Free-1(-2.4mm,0mm) on Multi-Layer And Pad Free-1(-2.1mm,-1.2mm) on Multi-Layer
+CON: TH 3.5mm            Duplicate Pad Name On Pads Pad Free-1(0mm,2.4mm) on Multi-Layer And Pad Free-1(-2.1mm,-1.2mm) on Multi-Layer
+CON: TH 3.5mm            Duplicate Pad Name On Pads Pad Free-1(0mm,0mm) on Multi-Layer And Pad Free-1(-2.1mm,-1.2mm) on Multi-Layer
+
+CON: XT60PW-M            Duplicate Pad Name On Pads Pad Free-MH(6.75mm,6mm) on Multi-Layer And Pad Free-MH(-6.75mm,6mm) on Multi-Layer
+
+FUSE: FC-001S            Duplicate Pad Name On Pads Pad Free-2(5mm,0mm) on Multi-Layer And Pad Free-2(10.5mm,0mm) on Multi-Layer
+FUSE: FC-001S            Duplicate Pad Name On Pads Pad Free-1(-10.5mm,0mm) on Multi-Layer And Pad Free-1(-5mm,0mm) on Multi-Layer
+
+IC: HCPL-3120            Duplicate Pad Name On Pads Pad Free-1(-4.6mm,3.81mm) on Top Layer And Pad Free-1(-4.3mm,4.3mm) on Top Assy
+
+TRANS: 16-SOP            Duplicate Pad Name On Pads Pad Free-14(0.5mm,1mm) on Top Assy And Pad Free-14(8.53mm,-2.54mm) on Top Layer
+
+BUT: 6x3.5 SMD           Duplicate Pad Name On Pads Pad Free-(-2.15mm,0mm) on Multi-Layer And Pad Free-(2.15mm,0mm) on Multi-Layer
+
+CON: 74651174R           Duplicate Pad Name On Pads Pad Free-1(-2.94mm,-2.94mm) on Multi-Layer And Pad Free-1(-2.94mm,2.94mm) on Multi-Layer
+CON: 74651174R           Duplicate Pad Name On Pads Pad Free-1(2.94mm,2.94mm) on Multi-Layer And Pad Free-1(-2.94mm,2.94mm) on Multi-Layer
+CON: 74651174R           Duplicate Pad Name On Pads Pad Free-1(2.94mm,-2.94mm) on Multi-Layer And Pad Free-1(-2.94mm,2.94mm) on Multi-Layer
+CON: 74651174R           Duplicate Pad Name On Pads Pad Free-1(0mm,0mm) on Top Layer And Pad Free-1(-2.94mm,2.94mm) on Multi-Layer
+CON: 74651174R           Duplicate Pad Name On Pads Pad Free-1(0mm,0mm) on Bottom Layer And Pad Free-1(-2.94mm,2.94mm) on Multi-Layer
+
+CON: SM04B-GHS           Duplicate Pad Name On Pads Pad Free-(-3.65mm,4.4mm) on 3D model And Pad Free-(-2.95mm,4.625mm) on Top Overlay
+
+CON: SM05B-GHS           Duplicate Pad Name On Pads Pad Free-(-3.6mm,4.65mm) on Top Overlay And Pad Free-(-4.3mm,4.45mm) on Top Assy
+
+CON: SM06B-GHS           Duplicate Pad Name On Pads Pad Free-(-4.2mm,4.625mm) on Top Overlay And Pad Free-(-4.9mm,4.425mm) on Top Assy
+
+SENSOR: ACS770           Duplicate Pad Name On Pads Pad Free-4(6mm,11.5mm) on Multi-Layer And Pad Free-4(5mm,11.5mm) on Multi-Layer
+SENSOR: ACS770           Duplicate Pad Name On Pads Pad Free-4(8mm,10mm) on Multi-Layer And Pad Free-4(5mm,11.5mm) on Multi-Layer
+SENSOR: ACS770           Duplicate Pad Name On Pads Pad Free-4(7.8mm,10.8mm) on Multi-Layer And Pad Free-4(5mm,11.5mm) on Multi-Layer
+SENSOR: ACS770           Duplicate Pad Name On Pads Pad Free-4(7mm,11.4mm) on Multi-Layer And Pad Free-4(5mm,11.5mm) on Multi-Layer
+SENSOR: ACS770           Duplicate Pad Name On Pads Pad Free-4(3mm,11.4mm) on Multi-Layer And Pad Free-4(5mm,11.5mm) on Multi-Layer
+SENSOR: ACS770           Duplicate Pad Name On Pads Pad Free-4(2.2mm,10.8mm) on Multi-Layer And Pad Free-4(5mm,11.5mm) on Multi-Layer
+SENSOR: ACS770           Duplicate Pad Name On Pads Pad Free-4(2mm,10mm) on Multi-Layer And Pad Free-4(5mm,11.5mm) on Multi-Layer
+SENSOR: ACS770           Duplicate Pad Name On Pads Pad Free-4(4mm,11.5mm) on Multi-Layer And Pad Free-4(5mm,11.5mm) on Multi-Layer
+SENSOR: ACS770           Duplicate Pad Name On Pads Pad Free-4(4mm,8.5mm) on Multi-Layer And Pad Free-4(5mm,11.5mm) on Multi-Layer
+SENSOR: ACS770           Duplicate Pad Name On Pads Pad Free-4(2.2mm,9.2mm) on Multi-Layer And Pad Free-4(5mm,11.5mm) on Multi-Layer
+SENSOR: ACS770           Duplicate Pad Name On Pads Pad Free-4(3mm,8.6mm) on Multi-Layer And Pad Free-4(5mm,11.5mm) on Multi-Layer
+SENSOR: ACS770           Duplicate Pad Name On Pads Pad Free-4(5mm,8.5mm) on Multi-Layer And Pad Free-4(5mm,11.5mm) on Multi-Layer
+SENSOR: ACS770           Duplicate Pad Name On Pads Pad Free-4(7mm,8.6mm) on Multi-Layer And Pad Free-4(5mm,11.5mm) on Multi-Layer
+SENSOR: ACS770           Duplicate Pad Name On Pads Pad Free-4(7.8mm,9.2mm) on Multi-Layer And Pad Free-4(5mm,11.5mm) on Multi-Layer
+SENSOR: ACS770           Duplicate Pad Name On Pads Pad Free-4(6mm,8.5mm) on Multi-Layer And Pad Free-4(5mm,11.5mm) on Multi-Layer
+SENSOR: ACS770           Duplicate Pad Name On Pads Pad Free-5(-2.2mm,9.2mm) on Multi-Layer And Pad Free-5(-4mm,8.5mm) on Multi-Layer
+SENSOR: ACS770           Duplicate Pad Name On Pads Pad Free-5(-3mm,8.6mm) on Multi-Layer And Pad Free-5(-4mm,8.5mm) on Multi-Layer
+SENSOR: ACS770           Duplicate Pad Name On Pads Pad Free-5(-5mm,8.5mm) on Multi-Layer And Pad Free-5(-4mm,8.5mm) on Multi-Layer
+SENSOR: ACS770           Duplicate Pad Name On Pads Pad Free-5(-7mm,8.6mm) on Multi-Layer And Pad Free-5(-4mm,8.5mm) on Multi-Layer
+SENSOR: ACS770           Duplicate Pad Name On Pads Pad Free-5(-7.8mm,9.2mm) on Multi-Layer And Pad Free-5(-4mm,8.5mm) on Multi-Layer
+SENSOR: ACS770           Duplicate Pad Name On Pads Pad Free-5(-6mm,8.5mm) on Multi-Layer And Pad Free-5(-4mm,8.5mm) on Multi-Layer
+SENSOR: ACS770           Duplicate Pad Name On Pads Pad Free-5(-6mm,11.5mm) on Multi-Layer And Pad Free-5(-4mm,8.5mm) on Multi-Layer
+SENSOR: ACS770           Duplicate Pad Name On Pads Pad Free-5(-8mm,10mm) on Multi-Layer And Pad Free-5(-4mm,8.5mm) on Multi-Layer
+SENSOR: ACS770           Duplicate Pad Name On Pads Pad Free-5(-7.8mm,10.8mm) on Multi-Layer And Pad Free-5(-4mm,8.5mm) on Multi-Layer
+SENSOR: ACS770           Duplicate Pad Name On Pads Pad Free-5(-7mm,11.4mm) on Multi-Layer And Pad Free-5(-4mm,8.5mm) on Multi-Layer
+SENSOR: ACS770           Duplicate Pad Name On Pads Pad Free-5(-5mm,10mm) on Multi-Layer And Pad Free-5(-4mm,8.5mm) on Multi-Layer
+SENSOR: ACS770           Duplicate Pad Name On Pads Pad Free-5(-3mm,11.4mm) on Multi-Layer And Pad Free-5(-4mm,8.5mm) on Multi-Layer
+SENSOR: ACS770           Duplicate Pad Name On Pads Pad Free-5(-2.2mm,10.8mm) on Multi-Layer And Pad Free-5(-4mm,8.5mm) on Multi-Layer
+SENSOR: ACS770           Duplicate Pad Name On Pads Pad Free-5(-2mm,10mm) on Multi-Layer And Pad Free-5(-4mm,8.5mm) on Multi-Layer
+SENSOR: ACS770           Duplicate Pad Name On Pads Pad Free-5(-4mm,11.5mm) on Multi-Layer And Pad Free-5(-4mm,8.5mm) on Multi-Layer
+SENSOR: ACS770           Duplicate Pad Name On Pads Pad Free-5(-5mm,11.5mm) on Multi-Layer And Pad Free-5(-4mm,8.5mm) on Multi-Layer
+SENSOR: ACS770           Duplicate Pad Name On Pads Pad Free-4(5mm,10mm) on Multi-Layer And Pad Free-4(5mm,11.5mm) on Multi-Layer
+SENSOR: ACS770           Duplicate Pad Name On Pads Pad Free-4(-3mm,-11mm) on Top Assy And Pad Free-4(5mm,11.5mm) on Multi-Layer
+SENSOR: ACS770           Duplicate Primitives: Track (-9mm,-12.5mm)(9mm,-12.5mm) on Size Area And Track (-9mm,-12.5mm)(9mm,-12.5mm) on Size Area
+
+SENSOR: ACS781           Duplicate Pad Name On Pads Pad Free-(-2.8mm,0mm) on Top Layer And Pad Free-(2.8mm,0mm) on Top Layer
+SENSOR: ACS781           Duplicate Pad Name On Pads Pad Free-(-2.7mm,-2.7mm) on Top Assy And Pad Free-(2.8mm,0mm) on Top Layer
+SENSOR: ACS781           Duplicate Pad Name On Pads Pad Free-(-2.5mm,-3.2mm) on Top Overlay And Pad Free-(2.8mm,0mm) on Top Layer
+
+TRANS: ER9.5/5           Duplicate Pad Name On Pads Pad Free-(0.1mm,1.2mm) on Top Assy And Pad Free-(0.1mm,1.2mm) on Top Overlay
+
+TRANS: RM8 v.1           Duplicate Pad Name On Pads Pad Free-(8.89mm,8.89mm) on Multi-Layer And Pad Free-(-8.89mm,-8.89mm) on Multi-Layer
+TRANS: RM8 v.1           Duplicate Pad Name On Pads Pad Free-(3mm,-10.5mm) on Top Overlay And Pad Free-(-8.89mm,-8.89mm) on Multi-Layer
+
+BUT: SKQGADE010          Duplicate Pad Name On Pads Pad Free-1(3.1mm,1.85mm) on Top Layer And Pad Free-1(-3.1mm,1.85mm) on Top Layer
+BUT: SKQGADE010          Duplicate Pad Name On Pads Pad Free-2(3.1mm,-1.85mm) on Top Layer And Pad Free-2(-3.1mm,-1.85mm) on Top Layer
+
+CON: 0533750210          Duplicate Pad Name On Pads Pad Free-(-1.9mm,-2.9mm) on Top Assy And Pad Free-(4.1mm,-2.2mm) on Multi-Layer
+
+CON: 0533750310          Duplicate Pad Name On Pads Pad Free-(4.1mm,-2.2mm) on Top Assy And Pad Free-(4.1mm,-2.2mm) on Multi-Layer
+CON: 0533750310          Duplicate Pad Name On Pads Pad Free-(5.6mm,-3mm) on Top Overlay And Pad Free-(4.1mm,-2.2mm) on Multi-Layer
+
+CON: 0533750410          Duplicate Pad Name On Pads Pad Free-(-1.9mm,-2.8mm) on Top Assy And Pad Free-(9.1mm,-2.2mm) on Multi-Layer
+
+CON: 0533750510          Duplicate Pad Name On Pads Pad Free-(-1.9mm,-2.9mm) on Top Assy And Pad Free-(11.64mm,-2.2mm) on Multi-Layer
+
+CON: 0533750610          Duplicate Pad Name On Pads Pad Free-(8mm,-2.9mm) on Top Assy And Pad Free-(24.1mm,-2.2mm) on Multi-Layer
+
+CON: 0533750810          Duplicate Pad Name On Pads Pad Free-(3.2mm,-2.8mm) on Top Assy And Pad Free-(24.1mm,-2.2mm) on Multi-Layer
+
+CON: 0533751010          Duplicate Pad Name On Pads Pad Free-(-1.7mm,-2.7mm) on Top Assy And Pad Free-(24.1mm,-2.2mm) on Multi-Layer
+
+CON: 0533751210          Duplicate Pad Name On Pads Pad Free-(-1.8mm,-2.8mm) on Top Assy And Pad Free-(29.1mm,-2.2mm) on Multi-Layer
+
+CON: 0675031020          Duplicate Pad Name On Pads Pad Free-(-3.2mm,2.2mm) on Multi-Layer And Pad Free-(-3.2mm,-2.2mm) on Multi-Layer
+CON: 0675031020          Duplicate Pad Name On Pads Pad Free-(-0.6mm,4.5mm) on Top Assy And Pad Free-(-3.2mm,-2.2mm) on Multi-Layer
+CON: 0675031020          Duplicate Pad Name On Pads Pad Free-(1mm,2.5mm) on Top Overlay And Pad Free-(-3.2mm,-2.2mm) on Multi-Layer
+
+CON: 1988600000          Duplicate Pad Name On Pads Pad Free-1(-6.15mm,-12.5mm) on Multi-Layer And Pad Free-1(-6.15mm,0mm) on Multi-Layer
+CON: 1988600000          Duplicate Pad Name On Pads Pad Free-1(-9.95mm,0mm) on Multi-Layer And Pad Free-1(-6.15mm,0mm) on Multi-Layer
+CON: 1988600000          Duplicate Pad Name On Pads Pad Free-1(-9.95mm,-12.5mm) on Multi-Layer And Pad Free-1(-6.15mm,0mm) on Multi-Layer
+CON: 1988600000          Duplicate Pad Name On Pads Pad Free-2(3.8mm,0mm) on Multi-Layer And Pad Free-2(3.8mm,-12.5mm) on Multi-Layer
+CON: 1988600000          Duplicate Pad Name On Pads Pad Free-2(0mm,-12.5mm) on Multi-Layer And Pad Free-2(3.8mm,-12.5mm) on Multi-Layer
+CON: 1988600000          Duplicate Pad Name On Pads Pad Free-2(0mm,0mm) on Multi-Layer And Pad Free-2(3.8mm,-12.5mm) on Multi-Layer
+
+DIODE: DF206S-G          Duplicate Pad Name On Pads Pad Free-(-4.5mm,3.9mm) on Top Overlay And Pad Free-(-4.5mm,3.5mm) on Top Assy
+
+DIODE: LED3MM_Y          Duplicate Primitives: Arc (0mm,-0.025mm) on Top Overlay And Arc (0mm,-0.025mm) on Top Overlay
+DIODE: LED3MM_Y          Duplicate Primitives: Arc (0mm,0mm) on Top Overlay And Arc (0mm,0mm) on Top Overlay
+DIODE: LED3MM_Y          Duplicate Primitives: Track (1.485mm,-1.51mm)(1.485mm,-1.04mm) on Top Overlay And Track (1.485mm,-1.51mm)(1.485mm,-1.04mm) on Top Overlay
+DIODE: LED3MM_Y          Duplicate Primitives: Track (1.485mm,1.015mm)(1.485mm,1.485mm) on Top Overlay And Track (1.485mm,1.015mm)(1.485mm,1.485mm) on Top Overlay
+
+TRANS: E25/13/7          Duplicate Pad Name On Pads Pad Free-(-13.2mm,-8mm) on Top Overlay And Pad Free-(-13.2mm,-8mm) on Top Assy
+
+TRANS: P8208NLT          Duplicate Pad Name On Pads Pad Free-(3.3mm,-3.2mm) on Top Overlay And Pad Free-(3.8mm,-3.2mm) on Top Assy
+
+CON: 6PCV-02-006         Duplicate Pad Name On Pads Pad Free-(-5mm,4mm) on Top Overlay And Pad Free-(-5mm,4mm) on Top Assy
+
+CON: 6PCV-04-006         Duplicate Pad Name On Pads Pad Free-(-5mm,4mm) on Top Overlay And Pad Free-(-5mm,4mm) on Top Assy
+
+CON: 6PCV-06-006         Duplicate Pad Name On Pads Pad Free-(-5mm,4mm) on Top Overlay And Pad Free-(-5mm,4mm) on Top Assy
+
+BUT: 418117270904        Duplicate Pad Name On Pads Pad Free-(-5.1mm,-4.5mm) on Top Overlay And Pad Free-(-5.1mm,-4.5mm) on Top Assy
+
+CON: DS1020-09-40        Duplicate Pad Name On Pads Pad Free-(-2.8mm,-0.1mm) on Top Assy And Pad Free-(-0.75mm,0.5mm) on Top Overlay
+
+CON: Tyco 62650-1        Duplicate Pad Name On Pads Pad Free-1(2.54mm,0mm) on Multi-Layer And Pad Free-1(-2.54mm,0mm) on Multi-Layer
+
+MOD: B0505XT-1WR3        Duplicate Pad Name On Pads Pad Free-(-2.6mm,0.5mm) on Top Overlay And Pad Free-(-2.3mm,-0.1mm) on Top Assy
+
+SENSOR: LAH 100-P        Duplicate Pad Name On Pads Pad Free-1(2.54mm,-11.4mm) on Multi-Layer And Pad Free-1(0mm,-11.4mm) on Multi-Layer
+SENSOR: LAH 100-P        Duplicate Pad Name On Pads Pad Free-1(5.08mm,-11.4mm) on Multi-Layer And Pad Free-1(0mm,-11.4mm) on Multi-Layer
+SENSOR: LAH 100-P        Duplicate Pad Name On Pads Pad Free-2(2.54mm,0mm) on Multi-Layer And Pad Free-2(5.08mm,0mm) on Multi-Layer
+SENSOR: LAH 100-P        Duplicate Pad Name On Pads Pad Free-2(0mm,0mm) on Multi-Layer And Pad Free-2(5.08mm,0mm) on Multi-Layer
+
+SENSOR: LTS 25-NP        Duplicate Pad Name On Pads Pad Free-1(-3.81mm,10.16mm) on Multi-Layer And Pad Free-1(-3.81mm,7.62mm) on Multi-Layer
+SENSOR: LTS 25-NP        Duplicate Pad Name On Pads Pad Free-1(-3.81mm,12.7mm) on Multi-Layer And Pad Free-1(-3.81mm,7.62mm) on Multi-Layer
+SENSOR: LTS 25-NP        Duplicate Pad Name On Pads Pad Free-2(8.89mm,10.16mm) on Multi-Layer And Pad Free-2(8.89mm,7.62mm) on Multi-Layer
+SENSOR: LTS 25-NP        Duplicate Pad Name On Pads Pad Free-2(8.89mm,12.7mm) on Multi-Layer And Pad Free-2(8.89mm,7.62mm) on Multi-Layer
+
+TRANS: EFD20/10/7        Duplicate Pad Name On Pads Pad Free-(-2.5mm,-0.2mm) on Top Assy And Pad Free-(-1.5mm,0.8mm) on Top Overlay
+
+TRANS: RM14 (IND)        Duplicate Pad Name On Pads Pad Free-2(0mm,10.16mm) on Multi-Layer And Pad Free-2(0mm,0mm) on Multi-Layer
+TRANS: RM14 (IND)        Duplicate Pad Name On Pads Pad Free-2(5.08mm,10.16mm) on Multi-Layer And Pad Free-2(0mm,0mm) on Multi-Layer
+TRANS: RM14 (IND)        Duplicate Pad Name On Pads Pad Free-(2.54mm,35.56mm) on Multi-Layer And Pad Free-(7.62mm,30.48mm) on Multi-Layer
+TRANS: RM14 (IND)        Duplicate Pad Name On Pads Pad Free-(-25.4mm,-2.54mm) on Multi-Layer And Pad Free-(7.62mm,30.48mm) on Multi-Layer
+TRANS: RM14 (IND)        Duplicate Pad Name On Pads Pad Free-(-30.48mm,2.54mm) on Multi-Layer And Pad Free-(7.62mm,30.48mm) on Multi-Layer
+TRANS: RM14 (IND)        Duplicate Pad Name On Pads Pad Free-2(-5.08mm,0mm) on Multi-Layer And Pad Free-2(0mm,0mm) on Multi-Layer
+TRANS: RM14 (IND)        Duplicate Pad Name On Pads Pad Free-2(-5.08mm,5.08mm) on Multi-Layer And Pad Free-2(0mm,0mm) on Multi-Layer
+TRANS: RM14 (IND)        Duplicate Pad Name On Pads Pad Free-2(5.08mm,5.08mm) on Multi-Layer And Pad Free-2(0mm,0mm) on Multi-Layer
+TRANS: RM14 (IND)        Duplicate Pad Name On Pads Pad Free-1(-27.94mm,27.94mm) on Multi-Layer And Pad Free-1(-27.94mm,22.86mm) on Multi-Layer
+TRANS: RM14 (IND)        Duplicate Pad Name On Pads Pad Free-1(-22.86mm,22.86mm) on Multi-Layer And Pad Free-1(-27.94mm,22.86mm) on Multi-Layer
+TRANS: RM14 (IND)        Duplicate Pad Name On Pads Pad Free-1(-17.78mm,27.94mm) on Multi-Layer And Pad Free-1(-27.94mm,22.86mm) on Multi-Layer
+TRANS: RM14 (IND)        Duplicate Pad Name On Pads Pad Free-1(-17.78mm,33.02mm) on Multi-Layer And Pad Free-1(-27.94mm,22.86mm) on Multi-Layer
+TRANS: RM14 (IND)        Duplicate Pad Name On Pads Pad Free-1(-22.86mm,33.02mm) on Multi-Layer And Pad Free-1(-27.94mm,22.86mm) on Multi-Layer
+
+CON: TC2030-MCP-NL       Duplicate Pad Name On Pads Pad Free-(5.08mm,-1.016mm) on Multi-Layer And Pad Free-(0mm,0mm) on Multi-Layer
+CON: TC2030-MCP-NL       Duplicate Pad Name On Pads Pad Free-(5.08mm,1.016mm) on Multi-Layer And Pad Free-(0mm,0mm) on Multi-Layer
+
+TRANS: ETD59/31/22       Duplicate Pad Name On Pads Pad Free-(27.94mm,-25.4mm) on Multi-Layer And Pad Free-(-33.02mm,25.4mm) on Multi-Layer
+TRANS: ETD59/31/22       Duplicate Pad Name On Pads Pad Free-1(-35mm,-32mm) on Top Assy And Pad Free-1(-33.02mm,-25.4mm) on Multi-Layer
+TRANS: ETD59/31/22       Duplicate Pad Name On Pads Pad Free-1(-35mm,-32mm) on Top Overlay And Pad Free-1(-33.02mm,-25.4mm) on Multi-Layer
+
+CON: FFC/FPC-40-0.5      Duplicate Pad Name On Pads Pad Free-MH(-11.6mm,2.375mm) on Top Layer And Pad Free-MH(11.6mm,2.375mm) on Top Layer
+
+CON: FFC/FPC-50-0.5      Duplicate Pad Name On Pads Pad Free-MH(-13.55mm,2.325mm) on Top Layer And Pad Free-MH(14.05mm,2.325mm) on Top Layer
+
+CON: TYPE-C-31-M-12      Duplicate Pad Name On Pads Pad Free-MH(-4.32mm,3.65mm) on Multi-Layer And Pad Free-MH(4.32mm,3.65mm) on Multi-Layer
+CON: TYPE-C-31-M-12      Duplicate Pad Name On Pads Pad Free-MH(4.32mm,-0.5mm) on Multi-Layer And Pad Free-MH(4.32mm,3.65mm) on Multi-Layer
+CON: TYPE-C-31-M-12      Duplicate Pad Name On Pads Pad Free-MH(-4.32mm,-0.5mm) on Multi-Layer And Pad Free-MH(4.32mm,3.65mm) on Multi-Layer
+CON: TYPE-C-31-M-12      Duplicate Pad Name On Pads Pad Free-MH(2.89mm,0mm) on Multi-Layer And Pad Free-MH(4.32mm,3.65mm) on Multi-Layer
+CON: TYPE-C-31-M-12      Duplicate Pad Name On Pads Pad Free-MH(-2.89mm,0mm) on Multi-Layer And Pad Free-MH(4.32mm,3.65mm) on Multi-Layer
+
+SENSOR: ACS711KEXLT      Duplicate Pad Name On Pads Pad Free-(-2mm,1.5mm) on Top Overlay And Pad Free-(-1.1mm,1.1mm) on Top Assy
+
+CON: HOLDER 18650 x1     Duplicate Pad Name On Pads Pad Free-2(8.7mm,0mm) on Multi-Layer And Pad Free-2(64.3mm,0mm) on Multi-Layer
+CON: HOLDER 18650 x1     Duplicate Pad Name On Pads Pad Free-2(72.9mm,0mm) on Multi-Layer And Pad Free-2(64.3mm,0mm) on Multi-Layer
+
+DIODE:  VUO190-08NO7     Duplicate Pad Name On Pads Pad Free-MH(40mm,0mm) on Multi-Layer And Pad Free-MH(-40mm,0mm) on Multi-Layer
+
+MOD: ESP32-WROOM32-D     Duplicate Pad Name On Pads Pad Free-39(-1.5mm,-1.9mm) on Top Layer And Pad Free-39(-1.5mm,-1.9mm) on Bottom Layer
+MOD: ESP32-WROOM32-D     Duplicate Primitives: Track (-9mm,13.1mm)(9mm,13.1mm) on Top Assy And Track (-9mm,13.1mm)(9mm,13.1mm) on Top Assy
+MOD: ESP32-WROOM32-D     Duplicate Primitives: Track (9mm,-12.4mm)(9mm,13.1mm) on Top Assy And Track (9mm,-12.4mm)(9mm,13.1mm) on Top Assy
+MOD: ESP32-WROOM32-D     Duplicate Primitives: Track (-9mm,-12.4mm)(-9mm,13.1mm) on Top Assy And Track (-9mm,-12.4mm)(-9mm,13.1mm) on Top Assy
+MOD: ESP32-WROOM32-D     Duplicate Primitives: Track (-9mm,-12.4mm)(9mm,-12.4mm) on Top Assy And Track (-9mm,-12.4mm)(9mm,-12.4mm) on Top Assy
+
+TRANS: RM14 (TR V.1)     Duplicate Pad Name On Pads Pad Free-7(17.78mm,-8.89mm) on Multi-Layer And Pad Free-7(17.78mm,-13.97mm) on Multi-Layer
+TRANS: RM14 (TR V.1)     Duplicate Pad Name On Pads Pad Free-10(17.78mm,13.97mm) on Multi-Layer And Pad Free-10(17.78mm,8.89mm) on Multi-Layer
+TRANS: RM14 (TR V.1)     Duplicate Pad Name On Pads Pad Free-(3.81mm,-22.86mm) on Multi-Layer And Pad Free-(-3.81mm,-22.86mm) on Multi-Layer
+TRANS: RM14 (TR V.1)     Duplicate Pad Name On Pads Pad Free-(3.81mm,22.86mm) on Multi-Layer And Pad Free-(-3.81mm,-22.86mm) on Multi-Layer
+TRANS: RM14 (TR V.1)     Duplicate Pad Name On Pads Pad Free-(-3.81mm,22.86mm) on Multi-Layer And Pad Free-(-3.81mm,-22.86mm) on Multi-Layer
+
+MOD: FF11MR12W1M1_B11    Duplicate Pad Name On Pads Pad Free-3(-6.4mm,9.6mm) on Multi-Layer And Pad Free-3(-9.6mm,9.6mm) on Multi-Layer
+MOD: FF11MR12W1M1_B11    Duplicate Pad Name On Pads Pad Free-4(12.8mm,9.6mm) on Multi-Layer And Pad Free-4(9.6mm,9.6mm) on Multi-Layer
+MOD: FF11MR12W1M1_B11    Duplicate Pad Name On Pads Pad Free-3(-9.6mm,-16mm) on Multi-Layer And Pad Free-3(-9.6mm,9.6mm) on Multi-Layer
+MOD: FF11MR12W1M1_B11    Duplicate Pad Name On Pads Pad Free-3(-6.4mm,-16mm) on Multi-Layer And Pad Free-3(-9.6mm,9.6mm) on Multi-Layer
+MOD: FF11MR12W1M1_B11    Duplicate Pad Name On Pads Pad Free-4(9.6mm,-16mm) on Multi-Layer And Pad Free-4(9.6mm,9.6mm) on Multi-Layer
+MOD: FF11MR12W1M1_B11    Duplicate Pad Name On Pads Pad Free-4(12.8mm,-16mm) on Multi-Layer And Pad Free-4(9.6mm,9.6mm) on Multi-Layer
+MOD: FF11MR12W1M1_B11    Duplicate Pad Name On Pads Pad Free-5(0mm,-9.6mm) on Multi-Layer And Pad Free-5(0mm,3.2mm) on Multi-Layer
+MOD: FF11MR12W1M1_B11    Duplicate Pad Name On Pads Pad Free-5(0mm,-6.4mm) on Multi-Layer And Pad Free-5(0mm,3.2mm) on Multi-Layer
+MOD: FF11MR12W1M1_B11    Duplicate Pad Name On Pads Pad Free-5(0mm,-3.2mm) on Multi-Layer And Pad Free-5(0mm,3.2mm) on Multi-Layer
+MOD: FF11MR12W1M1_B11    Duplicate Pad Name On Pads Pad Free-MH(0mm,-26.5mm) on Multi-Layer And Pad Free-MH(0mm,26.5mm) on Multi-Layer
+
+CON: 1911017 (Phoenix)   Duplicate Pad Name On Pads Pad Free-(-1.65mm,-2.5mm) on Top Overlay And Pad Free-(-1.65mm,-2.5mm) on Top Assy
+
+CON: 68714014522 (FPC)   Duplicate Pad Name On Pads Pad Free-(-1mm,0.4mm) on Top Overlay And Pad Free-(-2.9mm,-4.3mm) on Top Assy
+
+FUSE: FH-100 (5x20 mm)   Duplicate Pad Name On Pads Pad Free-2(15mm,0mm) on Multi-Layer And Pad Free-2(20mm,0mm) on Multi-Layer
+FUSE: FH-100 (5x20 mm)   Duplicate Pad Name On Pads Pad Free-1(0mm,0mm) on Multi-Layer And Pad Free-1(5mm,0mm) on Multi-Layer
+
+IND: R46.7/24.1/18 (H)   Duplicate Pad Name On Pads Pad Free-1(-10mm,-2.5mm) on Multi-Layer And Pad Free-1(-10mm,2.5mm) on Multi-Layer
+IND: R46.7/24.1/18 (H)   Duplicate Pad Name On Pads Pad Free-2(10mm,2.5mm) on Multi-Layer And Pad Free-2(10mm,-2.5mm) on Multi-Layer
+
+IND: R46.7/24.1/18 (L)   Duplicate Pad Name On Pads Pad Free-1(-24mm,-3mm) on Multi-Layer And Pad Free-1(-24mm,3mm) on Multi-Layer
+IND: R46.7/24.1/18 (L)   Duplicate Pad Name On Pads Pad Free-2(24mm,3mm) on Multi-Layer And Pad Free-2(24mm,-3mm) on Multi-Layer
+
+MOD: SIP-7 (B1212S-2W)   Duplicate Pad Name On Pads Pad Free-(-8.6mm,1.1mm) on Top Overlay And Pad Free-(-8.21mm,0mm) on Top Assy
+
+BUZ: AI-1223-TWT-3V-2-R  Duplicate Pad Name On Pads Pad Free-(-6.7mm,0mm) on Top Overlay And Pad Free-(-5.4mm,0mm) on Top Assy
+
+CON: 0395360002 (Molex)  Duplicate Pad Name On Pads Pad Free-MH(10.16mm,-1.9mm) on Multi-Layer And Pad Free-MH(-5.08mm,-1.9mm) on Multi-Layer
+
+TRANS: EFD15/8/5 - (10)  Duplicate Pad Name On Pads Pad Free-(-9.5mm,7mm) on Top Overlay And Pad Free-(-9.5mm,6.5mm) on Top Assy
+
+IND: R39.9/24.1/14.5 (H) Duplicate Pad Name On Pads Pad Free-1(-8.5mm,-2.5mm) on Multi-Layer And Pad Free-1(-8.5mm,2.5mm) on Multi-Layer
+IND: R39.9/24.1/14.5 (H) Duplicate Pad Name On Pads Pad Free-2(8.5mm,2.5mm) on Multi-Layer And Pad Free-2(8.5mm,-2.5mm) on Multi-Layer
+
+IND: R39.9/24.1/14.5 (L) Duplicate Pad Name On Pads Pad Free-1(-21mm,-2.5mm) on Multi-Layer And Pad Free-1(-21mm,2.5mm) on Multi-Layer
+IND: R39.9/24.1/14.5 (L) Duplicate Pad Name On Pads Pad Free-2(21mm,2.5mm) on Multi-Layer And Pad Free-2(21mm,-2.5mm) on Multi-Layer
+
+IND: R57.2/26.4/15.2 (H) Duplicate Pad Name On Pads Pad Free-2(9mm,4mm) on Multi-Layer And Pad Free-2(9mm,0mm) on Multi-Layer
+IND: R57.2/26.4/15.2 (H) Duplicate Pad Name On Pads Pad Free-2(9mm,-4mm) on Multi-Layer And Pad Free-2(9mm,0mm) on Multi-Layer
+IND: R57.2/26.4/15.2 (H) Duplicate Pad Name On Pads Pad Free-1(-9mm,4mm) on Multi-Layer And Pad Free-1(-9mm,-4mm) on Multi-Layer
+IND: R57.2/26.4/15.2 (H) Duplicate Pad Name On Pads Pad Free-1(-9mm,0mm) on Multi-Layer And Pad Free-1(-9mm,-4mm) on Multi-Layer
+
+IND: R57.2/26.4/15.2 (L) Duplicate Pad Name On Pads Pad Free-2(29.621mm,4mm) on Multi-Layer And Pad Free-2(29.621mm,0mm) on Multi-Layer
+IND: R57.2/26.4/15.2 (L) Duplicate Pad Name On Pads Pad Free-2(29.621mm,-4mm) on Multi-Layer And Pad Free-2(29.621mm,0mm) on Multi-Layer
+IND: R57.2/26.4/15.2 (L) Duplicate Pad Name On Pads Pad Free-1(-29.621mm,4mm) on Multi-Layer And Pad Free-1(-29.621mm,-4mm) on Multi-Layer
+IND: R57.2/26.4/15.2 (L) Duplicate Pad Name On Pads Pad Free-1(-29.621mm,0mm) on Multi-Layer And Pad Free-1(-29.621mm,-4mm) on Multi-Layer
+
+IND: R62.0/32.6/25.0 (H) Duplicate Pad Name On Pads Pad Free-1(-13.526mm,0mm) on Multi-Layer And Pad Free-1(-13.526mm,-4mm) on Multi-Layer
+IND: R62.0/32.6/25.0 (H) Duplicate Pad Name On Pads Pad Free-1(-13.526mm,4mm) on Multi-Layer And Pad Free-1(-13.526mm,-4mm) on Multi-Layer
+IND: R62.0/32.6/25.0 (H) Duplicate Pad Name On Pads Pad Free-2(13.526mm,0mm) on Multi-Layer And Pad Free-2(13.526mm,4mm) on Multi-Layer
+IND: R62.0/32.6/25.0 (H) Duplicate Pad Name On Pads Pad Free-2(13.526mm,-4mm) on Multi-Layer And Pad Free-2(13.526mm,4mm) on Multi-Layer
+
+IND: R62.0/32.6/25.0 (L) Duplicate Pad Name On Pads Pad Free-2(32mm,4mm) on Multi-Layer And Pad Free-2(32mm,0mm) on Multi-Layer
+IND: R62.0/32.6/25.0 (L) Duplicate Pad Name On Pads Pad Free-2(32mm,-4mm) on Multi-Layer And Pad Free-2(32mm,0mm) on Multi-Layer
+IND: R62.0/32.6/25.0 (L) Duplicate Pad Name On Pads Pad Free-1(-32mm,4mm) on Multi-Layer And Pad Free-1(-32mm,-4mm) on Multi-Layer
+IND: R62.0/32.6/25.0 (L) Duplicate Pad Name On Pads Pad Free-1(-32mm,0mm) on Multi-Layer And Pad Free-1(-32mm,-4mm) on Multi-Layer
+
+IND: R77.8/49.2/15.9 (H) Duplicate Pad Name On Pads Pad Free-2(8.976mm,4mm) on Multi-Layer And Pad Free-2(8.976mm,0mm) on Multi-Layer
+IND: R77.8/49.2/15.9 (H) Duplicate Pad Name On Pads Pad Free-2(9mm,-4mm) on Multi-Layer And Pad Free-2(8.976mm,0mm) on Multi-Layer
+IND: R77.8/49.2/15.9 (H) Duplicate Pad Name On Pads Pad Free-1(-8.976mm,4mm) on Multi-Layer And Pad Free-1(-9mm,-4mm) on Multi-Layer
+IND: R77.8/49.2/15.9 (H) Duplicate Pad Name On Pads Pad Free-1(-8.976mm,0mm) on Multi-Layer And Pad Free-1(-9mm,-4mm) on Multi-Layer
+
+IND: R77.8/49.2/15.9 (L) Duplicate Pad Name On Pads Pad Free-1(-40mm,-4mm) on Multi-Layer And Pad Free-1(-39.926mm,0mm) on Multi-Layer
+IND: R77.8/49.2/15.9 (L) Duplicate Pad Name On Pads Pad Free-1(-39.926mm,4mm) on Multi-Layer And Pad Free-1(-39.926mm,0mm) on Multi-Layer
+IND: R77.8/49.2/15.9 (L) Duplicate Pad Name On Pads Pad Free-2(40mm,-4mm) on Multi-Layer And Pad Free-2(39.926mm,4mm) on Multi-Layer
+IND: R77.8/49.2/15.9 (L) Duplicate Pad Name On Pads Pad Free-2(39.926mm,0mm) on Multi-Layer And Pad Free-2(39.926mm,4mm) on Multi-Layer
+
+CON: 68715014522 (FPC-50)Duplicate Pad Name On Pads Pad Free-(-3mm,-4.25mm) on Top Assy And Pad Free-(-1mm,0.4mm) on Top Overlay
+
+FUSE: 01110501Z (5x20 mm)Duplicate Pad Name On Pads Pad Free-2(18mm,-4.5mm) on Multi-Layer And Pad Free-2(18mm,0mm) on Multi-Layer
+FUSE: 01110501Z (5x20 mm)Duplicate Pad Name On Pads Pad Free-1(0mm,-4.5mm) on Multi-Layer And Pad Free-1(0mm,0mm) on Multi-Layer
+
+IND: R57.2/26.4/15.2 (H2)Duplicate Pad Name On Pads Pad Free-2(17.5mm,4mm) on Multi-Layer And Pad Free-2(17.5mm,-4mm) on Multi-Layer
+IND: R57.2/26.4/15.2 (H2)Duplicate Pad Name On Pads Pad Free-1(-17.5mm,4mm) on Multi-Layer And Pad Free-1(-17.5mm,-4mm) on Multi-Layer
+IND: R57.2/26.4/15.2 (H2)Duplicate Pad Name On Pads Pad Free-2(17.5mm,0mm) on Multi-Layer And Pad Free-2(17.5mm,-4mm) on Multi-Layer
+IND: R57.2/26.4/15.2 (H2)Duplicate Pad Name On Pads Pad Free-1(-17.5mm,0mm) on Multi-Layer And Pad Free-1(-17.5mm,-4mm) on Multi-Layer
+
+IND: R57.2/26.4/15.2 (L2)Duplicate Pad Name On Pads Pad Free-2(29.621mm,4mm) on Multi-Layer And Pad Free-2(29.621mm,0mm) on Multi-Layer
+IND: R57.2/26.4/15.2 (L2)Duplicate Pad Name On Pads Pad Free-2(29.621mm,-4mm) on Multi-Layer And Pad Free-2(29.621mm,0mm) on Multi-Layer
+IND: R57.2/26.4/15.2 (L2)Duplicate Pad Name On Pads Pad Free-1(-29.621mm,4mm) on Multi-Layer And Pad Free-1(-29.621mm,-4mm) on Multi-Layer
+IND: R57.2/26.4/15.2 (L2)Duplicate Pad Name On Pads Pad Free-1(-29.621mm,0mm) on Multi-Layer And Pad Free-1(-29.621mm,-4mm) on Multi-Layer
+
+IND: R77.8/49.2/15.9 (L2)Duplicate Pad Name On Pads Pad Free-1(-40mm,-4mm) on Multi-Layer And Pad Free-1(-39.926mm,0mm) on Multi-Layer
+IND: R77.8/49.2/15.9 (L2)Duplicate Pad Name On Pads Pad Free-1(-39.926mm,4mm) on Multi-Layer And Pad Free-1(-39.926mm,0mm) on Multi-Layer
+IND: R77.8/49.2/15.9 (L2)Duplicate Pad Name On Pads Pad Free-2(40mm,-4mm) on Multi-Layer And Pad Free-2(39.926mm,4mm) on Multi-Layer
+IND: R77.8/49.2/15.9 (L2)Duplicate Pad Name On Pads Pad Free-2(39.926mm,0mm) on Multi-Layer And Pad Free-2(39.926mm,4mm) on Multi-Layer
+
+CON: 62684-402100ALF (FPC)Duplicate Pad Name On Pads Pad Free-(-1mm,0.3mm) on Top Overlay And Pad Free-(-2.9mm,-4.6mm) on Top Assy
+
+MOD: MGJ2D121505SC (SIP-7)Duplicate Pad Name On Pads Pad Free-(-10.4mm,2.3mm) on Top Overlay And Pad Free-(-9.4mm,2mm) on Top Assy
+
+DISP: CL3631BH - RED (0,36")Duplicate Pad Name On Pads Pad Free-(-4.3mm,-1.4mm) on Top Overlay And Pad Free-(-4.3mm,-1.4mm) on Top Assy
+
+CON: FH35C-45S-0.3SHW(FPC-45)Duplicate Pad Name On Pads Pad Free-MP(-7.296mm,-1.288mm) on Top Layer And Pad Free-MP(7.304mm,-1.288mm) on Top Layer
+CON: FH35C-45S-0.3SHW(FPC-45)Duplicate Primitives: Arc (-6.996mm,-2.013mm) on Top Overlay And Arc (-6.996mm,-2.013mm) on Top Overlay
+CON: FH35C-45S-0.3SHW(FPC-45)Duplicate Primitives: Track (7.554mm,-0.338mm)(7.554mm,1.587mm) on Top Overlay And Track (7.554mm,-0.338mm)(7.554mm,1.587mm) on Top Overlay
+CON: FH35C-45S-0.3SHW(FPC-45)Duplicate Primitives: Track (7.004mm,1.587mm)(7.554mm,1.587mm) on Top Overlay And Track (7.004mm,1.587mm)(7.554mm,1.587mm) on Top Overlay
+CON: FH35C-45S-0.3SHW(FPC-45)Duplicate Primitives: Track (-7.546mm,1.587mm)(-6.996mm,1.587mm) on Top Overlay And Track (-7.546mm,1.587mm)(-6.996mm,1.587mm) on Top Overlay
+CON: FH35C-45S-0.3SHW(FPC-45)Duplicate Primitives: Track (-7.546mm,-0.338mm)(-7.546mm,1.587mm) on Top Overlay And Track (-7.546mm,-0.338mm)(-7.546mm,1.587mm) on Top Overlay
+
+DISP: CL3631BH - GREEN (0,36")Duplicate Pad Name On Pads Pad Free-(-4.3mm,-1.4mm) on Top Overlay And Pad Free-(-4.3mm,-1.4mm) on Top Assy
+
+CON: RJ-45 (615008137421 / DS1128-09-S8B8S)Duplicate Pad Name On Pads Pad Free-MH(6.35mm,0mm) on Multi-Layer And Pad Free-MH(-6.35mm,0mm) on Multi-Layer
+CON: RJ-45 (615008137421 / DS1128-09-S8B8S)Duplicate Pad Name On Pads Pad Free-MH(-8.125mm,3.43mm) on Multi-Layer And Pad Free-MH(-6.35mm,0mm) on Multi-Layer
+CON: RJ-45 (615008137421 / DS1128-09-S8B8S)Duplicate Pad Name On Pads Pad Free-MH(8.125mm,3.43mm) on Multi-Layer And Pad Free-MH(-6.35mm,0mm) on Multi-Layer
+

@@ -1,0 +1,6 @@
+Component Rule Check Report for : C:\Users\aksul\YandexDisk\Altium_Projects\Remote_LIbraries\altium-library\library\ic-mcu.SchLib
+
+
+Name                Errors
+------------------------------------------------------------------
+STM32F746NGH6       (Missing Pin Number In Sequence : G7,G8,G9 [G1..G15]) 
